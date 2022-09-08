@@ -1,0 +1,20 @@
+0.68750 {0: 'No', 1: 'Yes'}
+0.68750 {0: 'Then', 1: 'Yes'}
+0.65625 {0: 'No', 1: 'Cause'}
+0.65625 {0: 'No', 1: 'Cause? In the end'}
+0.65625 {0: 'No', 1: 'Yeah'}
+0.62500 {0: 'No', 1: 'Cause? No'}
+0.59375 {0: 'No', 1: 'In other words'}
+0.59375 {0: 'No', 1: 'Finally'}
+0.59375 {0: 'No', 1: 'Cause? Yes'}
+0.59375 {0: 'No', 1: 'Cause? Well'}
+0.59375 {0: 'No', 1: 'At the end'}
+0.59375 {0: 'No', 1: 'Well'}
+0.56250 {0: 'No', 1: 'In the end'}
+0.56250 {0: 'No', 1: 'Because'}
+0.56250 {0: 'No', 1: 'Cause? Then'}
+0.56250 {0: 'No', 1: 'If so'}
+0.53125 {0: 'No', 1: 'Actually'}
+0.53125 {0: 'No', 1: 'Or'}
+0.53125 {0: 'No', 1: 'If not'}
+0.50000 {0: 'No', 1: 'After all'}

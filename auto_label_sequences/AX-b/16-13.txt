@@ -1,0 +1,20 @@
+{'not_entailment': 'No', 'entailment': 'Yes'}
+{'not_entailment': 'However', 'entailment': 'Yes'}
+{'not_entailment': 'In fact', 'entailment': 'Yes'}
+{'not_entailment': 'But', 'entailment': 'Yes'}
+{'not_entailment': 'Well', 'entailment': 'Yes'}
+{'not_entailment': 'Actually', 'entailment': 'Yes'}
+{'not_entailment': 'Then', 'entailment': 'Yes'}
+{'not_entailment': 'And', 'entailment': 'Yes'}
+{'not_entailment': 'yes', 'entailment': 'Yes'}
+{'not_entailment': 'no', 'entailment': 'Yes'}
+{'not_entailment': 'Instead', 'entailment': 'Yes'}
+{'not_entailment': 'On the contrary', 'entailment': 'Yes'}
+{'not_entailment': 'On the other hand', 'entailment': 'Yes'}
+{'not_entailment': 'In the end', 'entailment': 'Yes'}
+{'not_entailment': 'Of course', 'entailment': 'Yes'}
+{'not_entailment': 'Or', 'entailment': 'Yes'}
+{'not_entailment': 'What is more', 'entailment': 'Yes'}
+{'not_entailment': 'In the past', 'entailment': 'Yes'}
+{'not_entailment': 'For the record', 'entailment': 'Yes'}
+{'not_entailment': 'Well, yes', 'entailment': 'Yes'}

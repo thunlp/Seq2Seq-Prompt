@@ -1,0 +1,20 @@
+{0: 'I do not.', 1: 'I love it.'}
+{0: 'I agree.', 1: 'I love it.'}
+{0: 'I hate it!', 1: 'I love it.'}
+{0: 'I hate it.', 1: 'I love it.'}
+{0: 'Very disappointing.', 1: 'I love it.'}
+{0: 'Very disappointed.', 1: 'I love it.'}
+{0: 'I am sorry.', 1: 'I love it.'}
+{0: '. Good luck!', 1: 'I love it.'}
+{0: '. Good luck.', 1: 'I love it.'}
+{0: 'I think.', 1: 'I love it.'}
+{0: 'Not good.', 1: 'I love it.'}
+{0: 'Beware!', 1: 'I love it.'}
+{0: 'Beware.', 1: 'I love it.'}
+{0: 'I am not.', 1: 'I love it.'}
+{0: 'I am disappointed.', 1: 'I love it.'}
+{0: 'No more.', 1: 'I love it.'}
+{0: 'This is terrible.', 1: 'I love it.'}
+{0: 'It is not.', 1: 'I love it.'}
+{0: 'Sigh.', 1: 'I love it.'}
+{0: '. Read more.', 1: 'I love it.'}

@@ -1,0 +1,20 @@
+0.52500 {0: 'I hate it.', 1: 'But it works.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+0.50000 {0: 'Good luck with that.', 1: "Don't bother.", 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+0.50000 {0: 'Good luck with that.', 1: 'But it is.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+0.48750 {0: 'Good luck with that.', 1: 'Watch this space.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+0.48750 {0: "Don't do it.", 1: 'Watch this space.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+0.48750 {0: "It's just.", 1: 'But it works.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+0.48750 {0: 'Good luck with that.', 1: 'I have no complaints.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+0.48750 {0: "Don't do it.", 1: 'I have no complaints.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+0.47500 {0: "Don't do it.", 1: 'But it works.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+0.47500 {0: "Don't do it.", 1: 'But it is.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+0.46250 {0: "Don't do it.", 1: "Don't bother.", 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+0.46250 {0: 'Good luck with that.', 1: 'But it works.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+0.46250 {0: 'I hate it.', 1: 'But it is.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+0.46250 {0: 'I hate it.', 1: 'Watch this space.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+0.46250 {0: 'You know what?', 1: "Don't bother.", 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+0.46250 {0: "It's not.", 1: 'But it works.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+0.42500 {0: 'I hate it.', 1: "Don't bother.", 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+0.40000 {0: "It's not.", 1: "Don't bother.", 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+0.38750 {0: "It's just.", 1: "Don't bother.", 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+0.35000 {0: "It's just.", 1: 'But it is.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}

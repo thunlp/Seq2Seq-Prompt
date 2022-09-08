@@ -1,0 +1,20 @@
+0.74089 {'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'Yes, I think'}
+0.71171 {'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'A: Yes, I think'}
+0.71171 {'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'A: I think, yes'}
+0.71171 {'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'I think'}
+0.71171 {'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': "I don't think so"}
+0.68254 {'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'A: I think'}
+0.68254 {'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'A: Of course'}
+0.68254 {'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'If, in fact'}
+0.68254 {'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'Either way'}
+0.68254 {'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'What do you think? A: Yes'}
+0.68254 {'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'A: I mean'}
+0.68254 {'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'A: Yes, yes'}
+0.59821 {'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'A: Sure'}
+0.56891 {'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'A: yes'}
+0.56891 {'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'A: Well, yes'}
+0.55802 {'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'A: Yes'}
+0.55443 {'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'If so'}
+0.54303 {'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'In other words'}
+0.54303 {'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'Maybe'}
+0.54108 {'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'B: Yes'}

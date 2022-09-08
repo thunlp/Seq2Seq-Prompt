@@ -1,0 +1,20 @@
+{0: '. Good luck!', 1: 'I love it.'}
+{0: 'Any suggestions?', 1: 'I love it.'}
+{0: 'I hate it.', 1: 'I love it.'}
+{0: '. Good luck.', 1: 'I love it.'}
+{0: 'Can you help?', 1: 'I love it.'}
+{0: '.no.', 1: 'I love it.'}
+{0: 'Is it?', 1: 'I love it.'}
+{0: 'Do you know?', 1: 'I love it.'}
+{0: '. I think.', 1: 'I love it.'}
+{0: '. thanks!', 1: 'I love it.'}
+{0: '. Any suggestions?', 1: 'I love it.'}
+{0: '.so.', 1: 'I love it.'}
+{0: '. What?', 1: 'I love it.'}
+{0: 'Do you think?', 1: 'I love it.'}
+{0: 'I hate it!', 1: 'I love it.'}
+{0: '. Good luck!', 1: 'Highly recommended.'}
+{0: 'It is not.', 1: 'I love it.'}
+{0: '. I hope.', 1: 'I love it.'}
+{0: '. Sigh.', 1: 'I love it.'}
+{0: '.no?', 1: 'I love it.'}

@@ -1,0 +1,20 @@
+{'contradiction': 'Then', 'entailment': 'In this video', 'neutral': 'At the end of the day'}
+{'contradiction': 'Also', 'entailment': 'In this video', 'neutral': 'Yes'}
+{'contradiction': 'Then', 'entailment': 'In this video', 'neutral': 'In the photo below'}
+{'contradiction': 'Then', 'entailment': 'In this video', 'neutral': 'Yes'}
+{'contradiction': 'Then', 'entailment': 'In this video', 'neutral': 'In this case'}
+{'contradiction': 'Next', 'entailment': 'In this video', 'neutral': 'Yes'}
+{'contradiction': 'Then', 'entailment': 'In this video', 'neutral': 'If so'}
+{'contradiction': 'Then', 'entailment': 'In this video', 'neutral': 'As you can see'}
+{'contradiction': 'In the background', 'entailment': 'In this video', 'neutral': 'Yes'}
+{'contradiction': 'Then', 'entailment': 'In this video', 'neutral': 'Maybe'}
+{'contradiction': 'Then', 'entailment': 'In this video', 'neutral': 'In other words'}
+{'contradiction': 'Then', 'entailment': 'In the picture', 'neutral': 'Yes'}
+{'contradiction': 'Then', 'entailment': 'In this video', 'neutral': 'In the photo above'}
+{'contradiction': 'Meanwhile', 'entailment': 'In this video', 'neutral': 'Yes'}
+{'contradiction': 'Then', 'entailment': 'In this video', 'neutral': 'Hi'}
+{'contradiction': 'On the other hand', 'entailment': 'In this video', 'neutral': 'Yes'}
+{'contradiction': 'At the same time', 'entailment': 'In this video', 'neutral': 'Yes'}
+{'contradiction': 'Then', 'entailment': 'In this picture', 'neutral': 'Yes'}
+{'contradiction': 'Then', 'entailment': 'In this video', 'neutral': 'Yep'}
+{'contradiction': 'Then', 'entailment': 'In this video', 'neutral': 'In fact'}

@@ -1,0 +1,20 @@
+0.77778 {'0': 'However', '1': 'Indeed'}
+0.76190 {'0': 'However', '1': 'Well'}
+0.75000 {'0': 'Of course', '1': 'Well'}
+0.75000 {'0': 'However', '1': 'That is'}
+0.73684 {'0': 'Also', '1': 'In other words'}
+0.71111 {'0': 'Also', '1': 'Indeed'}
+0.70588 {'0': 'Also', '1': "That's right"}
+0.70270 {'0': 'However', '1': '.'}
+0.70270 {'0': 'Also', '1': 'According to the official'}
+0.68750 {'0': 'Also', '1': 'That is'}
+0.68571 {'0': 'Also', '1': 'On the same day'}
+0.68421 {'0': 'Also', '1': 'According to the statement'}
+0.68293 {'0': 'Also', '1': 'Well'}
+0.68293 {'0': 'However', '1': '?'}
+0.66667 {'0': 'Also', '1': 'According to the source'}
+0.66667 {'0': 'Then', '1': 'Well'}
+0.63158 {'0': 'Also', '1': 'According to the news release'}
+0.62069 {'0': 'Also', '1': 'According to the Washington Post'}
+0.57143 {'0': 'Also', '1': '?'}
+0.53846 {'0': 'Also', '1': '.'}

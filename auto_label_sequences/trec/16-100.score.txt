@@ -1,0 +1,20 @@
+0.90625 {0: 'Good question.', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'Question?', 5: '1?'}
+0.88542 {0: 'Really?', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'Question?', 5: '10?'}
+0.86458 {0: 'Really?', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'please?', 5: '10?'}
+0.86458 {0: 'Good question.', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'Question?', 5: '10?'}
+0.86458 {0: 'Really?', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'please?', 5: '1?'}
+0.86458 {0: 'Really?', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'Question?', 5: '1?'}
+0.86458 {0: 'Really?', 1: 'What is?', 2: 'Search.', 3: 'Find out.', 4: 'please?', 5: '10?'}
+0.86458 {0: 'Really?', 1: 'What is?', 2: 'Search.', 3: 'Find out.', 4: 'Question?', 5: '10?'}
+0.85417 {0: 'Good question.', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'please?', 5: '10?'}
+0.85417 {0: 'Read here.', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'please?', 5: '10?'}
+0.85417 {0: 'Read here.', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'Question?', 5: '10?'}
+0.85417 {0: 'Really?', 1: 'What is?', 2: 'Search.', 3: 'Find out.', 4: 'please?', 5: '1?'}
+0.84375 {0: 'Good question.', 1: 'What is?', 2: 'Search.', 3: 'Find out.', 4: 'please?', 5: '10?'}
+0.84375 {0: 'Good question.', 1: 'What is?', 2: 'Search.', 3: 'Find out.', 4: 'Question?', 5: '10?'}
+0.84375 {0: 'Good question.', 1: 'What is?', 2: 'Search.', 3: 'Find out.', 4: 'please?', 5: '1?'}
+0.84375 {0: 'Read here.', 1: 'What is?', 2: 'Search.', 3: 'Find out.', 4: 'Question?', 5: '10?'}
+0.83333 {0: 'Good question.', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'please?', 5: '1?'}
+0.82292 {0: 'Read here.', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'please?', 5: '1?'}
+0.82292 {0: 'Read here.', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'Question?', 5: '1?'}
+0.82292 {0: 'Read here.', 1: 'What is?', 2: 'Search.', 3: 'Find out.', 4: 'please?', 5: '10?'}

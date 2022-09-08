@@ -1,0 +1,20 @@
+0.54167 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'In my opinion'}
+0.54167 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'And yes'}
+0.54167 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'At the time'}
+0.52083 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'For some reason'}
+0.52083 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'In the past'}
+0.52083 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'Because of this'}
+0.52083 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'As you know'}
+0.52083 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'At the moment'}
+0.52083 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'For the most part'}
+0.52083 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'As I said before'}
+0.52083 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'In fact'}
+0.50000 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'After all'}
+0.50000 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'According to the article'}
+0.50000 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'This is not true'}
+0.50000 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'At the end of the year'}
+0.50000 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'In the same way'}
+0.50000 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'Then again'}
+0.47917 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'Yet'}
+0.47917 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'Then, of course'}
+0.47917 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'In the case of this'}

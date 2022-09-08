@@ -1,0 +1,20 @@
+{False: 'is the verb.', True: 'is used.'}
+{False: 'is the verb.', True: ', etc.'}
+{False: 'is the verb.', True: 'does not exist.'}
+{False: 'means to.', True: 'is used.'}
+{False: 'means to.', True: ', etc.'}
+{False: 'is the verb.', True: 'in English.'}
+{False: 'is used here.', True: 'is used.'}
+{False: 'is used here.', True: ', etc.'}
+{False: 'means to make.', True: 'is used.'}
+{False: 'means to make.', True: ', etc.'}
+{False: 'is plural.', True: 'is used.'}
+{False: 'is plural.', True: ', etc.'}
+{False: 'means to stop.', True: 'is used.'}
+{False: 'means to.', True: 'does not exist.'}
+{False: 'is the verb.', True: 'is not in.'}
+{False: 'means to stop.', True: ', etc.'}
+{False: 'is the verb.', True: 'as an adjective.'}
+{False: 'is the verb.', True: 'is an adjective.'}
+{False: 'is the verb.', True: 'has no meaning.'}
+{False: 'is the verb.', True: 'is not in use.'}

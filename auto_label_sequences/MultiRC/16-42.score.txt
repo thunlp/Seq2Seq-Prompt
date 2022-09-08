@@ -1,0 +1,20 @@
+0.50000 {0: 'The first', 1: 'A'}
+0.50000 {0: 'For the first time', 1: 'A'}
+0.46875 {0: 'Of course', 1: 'A'}
+0.46875 {0: 'For the most part', 1: 'A'}
+0.43750 {0: 'And', 1: 'A'}
+0.40625 {0: 'Then', 1: 'A'}
+0.37500 {0: 'The answer is', 1: 'A'}
+0.34375 {0: 'At the same time', 1: 'A'}
+0.31250 {0: 'At the end of the day', 1: 'A'}
+0.31250 {0: 'No', 1: 'First'}
+0.28125 {0: 'Why', 1: 'A'}
+0.25000 {0: 'At the time', 1: 'A'}
+0.25000 {0: 'By the way', 1: 'A'}
+0.21875 {0: 'The answer', 1: 'A'}
+0.21875 {0: 'No', 1: 'A'}
+0.21875 {0: 'In fact', 1: 'A'}
+0.21875 {0: 'Also', 1: 'A'}
+0.18750 {0: 'In this case', 1: 'A'}
+0.18750 {0: 'Well', 1: 'A'}
+0.06250 {0: 'So', 1: 'A'}

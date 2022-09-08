@@ -1,0 +1,20 @@
+{0: "Don't.", 1: 'Watch the trailer below.', 2: 'Enjoy!', 3: 'A must read.', 4: 'highly recommended.'}
+{0: 'Not good.', 1: "Don't bother.", 2: 'Enjoy!', 3: 'Well worth watching.', 4: 'highly recommended.'}
+{0: 'Not good.', 1: 'Watch the trailer below.', 2: 'Enjoy!', 3: 'A must read.', 4: 'highly recommended.'}
+{0: "Don't.", 1: 'Watch the trailer below.', 2: 'Enjoy!', 3: 'Well worth watching.', 4: 'highly recommended.'}
+{0: "Don't.", 1: 'Watch the trailer here.', 2: 'Enjoy!', 3: 'A must read.', 4: 'highly recommended.'}
+{0: "Don't.", 1: 'Watch it on Netflix.', 2: 'Enjoy!', 3: 'Well worth watching.', 4: 'highly recommended.'}
+{0: "Don't.", 1: "Don't bother.", 2: 'Enjoy!', 3: 'Well worth watching.', 4: 'highly recommended.'}
+{0: "Don't.", 1: 'Watch the trailer here.', 2: 'Enjoy!', 3: 'Well worth watching.', 4: 'highly recommended.'}
+{0: 'Not good.', 1: 'Watch it on Netflix.', 2: 'Enjoy!', 3: 'A must read.', 4: 'highly recommended.'}
+{0: 'Not good.', 1: "Don't bother.", 2: 'Enjoy!', 3: 'A great read.', 4: 'highly recommended.'}
+{0: "Don't.", 1: 'Watch the trailer here.', 2: 'Enjoy!', 3: 'A great read.', 4: 'highly recommended.'}
+{0: 'Not good.', 1: 'Watch the trailer here.', 2: 'Enjoy!', 3: 'Well worth watching.', 4: 'highly recommended.'}
+{0: "Don't.", 1: 'Watch it on Netflix.', 2: 'Enjoy!', 3: 'A great read.', 4: 'highly recommended.'}
+{0: "Don't.", 1: 'Watch the trailer below.', 2: 'Enjoy!', 3: 'A great read.', 4: 'highly recommended.'}
+{0: 'Not good.', 1: 'Watch the trailer here.', 2: 'Enjoy!', 3: 'A must read.', 4: 'highly recommended.'}
+{0: "Don't.", 1: "Don't bother.", 2: 'Enjoy!', 3: 'A great read.', 4: 'highly recommended.'}
+{0: "Don't.", 1: 'Check out the trailer.', 2: 'Enjoy!', 3: 'A must read.', 4: 'highly recommended.'}
+{0: 'Not good.', 1: "Don't bother.", 2: 'Enjoy!', 3: 'A must read.', 4: 'highly recommended.'}
+{0: "Don't.", 1: "Don't bother.", 2: 'Enjoy!', 3: 'A must read.', 4: 'highly recommended.'}
+{0: "Don't.", 1: 'Watch it on Netflix.', 2: 'Enjoy!', 3: 'A must read.', 4: 'highly recommended.'}

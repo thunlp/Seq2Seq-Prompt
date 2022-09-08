@@ -1,0 +1,20 @@
+0.75000 {'contradiction': 'In the background', 'entailment': 'yes', 'neutral': 'Yeah'}
+0.72917 {'contradiction': 'In the background', 'entailment': 'yes', 'neutral': 'Sure'}
+0.70833 {'contradiction': 'In the background', 'entailment': 'In other words', 'neutral': 'Yeah'}
+0.68750 {'contradiction': 'Actually', 'entailment': 'yes', 'neutral': 'Sure'}
+0.68750 {'contradiction': 'Actually', 'entailment': 'Answer: Yes', 'neutral': 'Yeah'}
+0.68750 {'contradiction': 'Actually', 'entailment': 'Answer: Yes', 'neutral': 'Sure'}
+0.68750 {'contradiction': 'Actually', 'entailment': 'yes', 'neutral': "That's right"}
+0.66667 {'contradiction': 'Actually', 'entailment': 'yes', 'neutral': 'Yeah'}
+0.66667 {'contradiction': 'Actually', 'entailment': 'In other words', 'neutral': 'Yeah'}
+0.64583 {'contradiction': 'Actually', 'entailment': 'In other words', 'neutral': 'Sure'}
+0.62500 {'contradiction': 'Actually', 'entailment': 'In the picture below', 'neutral': 'Yeah'}
+0.58333 {'contradiction': 'In the background', 'entailment': 'Answer: Yes', 'neutral': 'Yeah'}
+0.56250 {'contradiction': 'Actually', 'entailment': 'A', 'neutral': 'Yeah'}
+0.56250 {'contradiction': 'Actually', 'entailment': 'To the right', 'neutral': 'Sure'}
+0.56250 {'contradiction': 'Actually', 'entailment': 'In the middle', 'neutral': 'Sure'}
+0.54167 {'contradiction': 'Actually', 'entailment': 'In the middle', 'neutral': 'Yeah'}
+0.52083 {'contradiction': 'In the background', 'entailment': 'A', 'neutral': 'Sure'}
+0.50000 {'contradiction': 'In the background', 'entailment': 'A', 'neutral': 'Yeah'}
+0.47917 {'contradiction': 'Actually', 'entailment': 'To the right', 'neutral': 'Yeah'}
+0.43750 {'contradiction': 'Actually', 'entailment': 'A', 'neutral': 'Sure'}

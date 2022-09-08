@@ -1,0 +1,20 @@
+0.71875 {'not_entailment': 'In fact', 'entailment': 'Well'}
+0.71875 {'not_entailment': 'In fact', 'entailment': 'At the end of the day'}
+0.71875 {'not_entailment': 'In fact', 'entailment': 'At the end of the year'}
+0.68750 {'not_entailment': 'In fact', 'entailment': 'In all'}
+0.68750 {'not_entailment': 'In fact', 'entailment': 'In the United States'}
+0.68750 {'not_entailment': 'In fact', 'entailment': 'After all'}
+0.68750 {'not_entailment': 'In fact', 'entailment': 'In the beginning'}
+0.68750 {'not_entailment': 'In fact', 'entailment': 'According to the article'}
+0.62500 {'not_entailment': 'In fact', 'entailment': 'In the end'}
+0.62500 {'not_entailment': 'In fact', 'entailment': 'In the long run'}
+0.62500 {'not_entailment': 'In fact', 'entailment': 'For the first time'}
+0.62500 {'not_entailment': 'In fact', 'entailment': 'In the same way'}
+0.62500 {'not_entailment': 'In fact', 'entailment': 'In the first place'}
+0.62500 {'not_entailment': 'In fact', 'entailment': 'As mentioned above'}
+0.59375 {'not_entailment': 'In fact', 'entailment': 'In any case'}
+0.59375 {'not_entailment': 'In fact', 'entailment': 'In the past'}
+0.59375 {'not_entailment': 'In fact', 'entailment': 'In the early days'}
+0.59375 {'not_entailment': 'In fact', 'entailment': 'In the last two years'}
+0.56250 {'not_entailment': 'In fact', 'entailment': 'In the last few years'}
+0.53125 {'not_entailment': 'In fact', 'entailment': 'In the last century'}

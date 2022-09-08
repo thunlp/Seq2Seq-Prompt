@@ -1,0 +1,20 @@
+{0: 'A must see.', 1: '. Read more.'}
+{0: 'A must see.', 1: 'Watch the video.'}
+{0: 'I loved it.', 1: 'Watch the video.'}
+{0: 'A must see.', 1: 'Find out why.'}
+{0: 'I loved it.', 1: 'Read more here.'}
+{0: 'A must see.', 1: 'Find out more.'}
+{0: 'A must see.', 1: 'What will happen?'}
+{0: 'A must see.', 1: 'Watch the movie.'}
+{0: 'A must see.', 1: 'The story continues.'}
+{0: 'A must see.', 1: 'Read more here.'}
+{0: 'I loved it.', 1: '. Read more.'}
+{0: 'A must see.', 1: 'What will happen next?'}
+{0: 'A must see.', 1: 'What do you think?'}
+{0: 'A must see.', 1: 'Watch the video!'}
+{0: 'A must see.', 1: 'Read the full story.'}
+{0: 'I loved it.', 1: 'Find out why.'}
+{0: 'A must see.', 1: 'Watch the video below.'}
+{0: 'A must see.', 1: 'This is the story.'}
+{0: 'I loved it.', 1: 'The story continues.'}
+{0: 'A must see.', 1: '. Read More.'}

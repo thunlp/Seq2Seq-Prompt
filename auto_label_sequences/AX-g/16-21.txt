@@ -1,0 +1,20 @@
+{'not_entailment': 'For example', 'entailment': 'In the end'}
+{'not_entailment': 'For example', 'entailment': 'Yes'}
+{'not_entailment': 'For example', 'entailment': 'No'}
+{'not_entailment': 'For example', 'entailment': 'In the video'}
+{'not_entailment': 'For example', 'entailment': 'In this story'}
+{'not_entailment': 'For example', 'entailment': 'The next day'}
+{'not_entailment': 'For example', 'entailment': 'In this scenario'}
+{'not_entailment': 'In other words', 'entailment': 'In the end'}
+{'not_entailment': 'In the case', 'entailment': 'In the end'}
+{'not_entailment': 'For example', 'entailment': 'As you can see'}
+{'not_entailment': 'Thus', 'entailment': 'In the end'}
+{'not_entailment': 'In the example', 'entailment': 'In the end'}
+{'not_entailment': 'For example', 'entailment': 'Well'}
+{'not_entailment': 'For example', 'entailment': 'So'}
+{'not_entailment': 'According to the report', 'entailment': 'In the end'}
+{'not_entailment': 'In the second example', 'entailment': 'In the end'}
+{'not_entailment': 'For example', 'entailment': 'If so'}
+{'not_entailment': 'In the second case', 'entailment': 'In the end'}
+{'not_entailment': 'In the first case', 'entailment': 'In the end'}
+{'not_entailment': 'In the case above', 'entailment': 'In the end'}

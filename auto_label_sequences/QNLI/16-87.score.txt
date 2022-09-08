@@ -1,0 +1,20 @@
+0.65625 {'not_entailment': 'For example', 'entailment': 'Yes'}
+0.65625 {'not_entailment': 'For example', 'entailment': 'In fact'}
+0.65625 {'not_entailment': 'For example', 'entailment': 'In short'}
+0.65625 {'not_entailment': 'For example', 'entailment': 'According to this article'}
+0.65625 {'not_entailment': 'However', 'entailment': 'According to Wikipedia'}
+0.62500 {'not_entailment': 'In addition', 'entailment': 'Yes'}
+0.62500 {'not_entailment': 'For example', 'entailment': 'Actually'}
+0.62500 {'not_entailment': 'For example', 'entailment': 'In the United States'}
+0.62500 {'not_entailment': 'For example', 'entailment': 'As mentioned above'}
+0.62500 {'not_entailment': 'For example', 'entailment': 'As mentioned'}
+0.62500 {'not_entailment': 'For example', 'entailment': 'In general'}
+0.62500 {'not_entailment': 'For example', 'entailment': 'As stated above'}
+0.62500 {'not_entailment': 'For example', 'entailment': 'Well'}
+0.62500 {'not_entailment': 'For example', 'entailment': 'As you can see'}
+0.59375 {'not_entailment': 'Also', 'entailment': 'Yes'}
+0.56250 {'not_entailment': 'However', 'entailment': 'Yes'}
+0.56250 {'not_entailment': 'For example', 'entailment': 'According to Wikipedia'}
+0.56250 {'not_entailment': 'For example', 'entailment': 'As noted above'}
+0.56250 {'not_entailment': 'For example', 'entailment': 'The answer is'}
+0.56250 {'not_entailment': 'For example', 'entailment': 'According to the article'}

@@ -1,0 +1,20 @@
+{'not_entailment': 'Also', 'entailment': 'In addition'}
+{'not_entailment': 'Also', 'entailment': 'In the past'}
+{'not_entailment': 'In fact', 'entailment': 'Yes'}
+{'not_entailment': 'However', 'entailment': 'In the past'}
+{'not_entailment': 'Also', 'entailment': 'In addition to the above'}
+{'not_entailment': 'Also', 'entailment': 'In addition to this'}
+{'not_entailment': 'Also', 'entailment': 'In the same way'}
+{'not_entailment': 'In fact', 'entailment': 'In the past'}
+{'not_entailment': 'Also', 'entailment': 'According to Wikipedia'}
+{'not_entailment': 'In fact', 'entailment': 'Thus'}
+{'not_entailment': 'Also', 'entailment': 'As mentioned above'}
+{'not_entailment': 'Also', 'entailment': 'No'}
+{'not_entailment': 'In fact', 'entailment': 'In addition'}
+{'not_entailment': 'Also', 'entailment': 'In this case'}
+{'not_entailment': 'Also', 'entailment': 'So'}
+{'not_entailment': 'Also', 'entailment': 'As mentioned'}
+{'not_entailment': 'However', 'entailment': 'Yes'}
+{'not_entailment': 'Also', 'entailment': 'Yes'}
+{'not_entailment': 'Also', 'entailment': 'Thus'}
+{'not_entailment': 'Also', 'entailment': 'Well'}

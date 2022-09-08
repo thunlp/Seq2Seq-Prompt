@@ -1,0 +1,20 @@
+0.62500 {'not_entailment': 'And', 'entailment': 'Yes'}
+0.59375 {'not_entailment': 'Finally', 'entailment': 'Yes'}
+0.59375 {'not_entailment': 'As you know', 'entailment': 'Yes'}
+0.59375 {'not_entailment': 'According to reports', 'entailment': 'Yes'}
+0.59375 {'not_entailment': 'By the way', 'entailment': 'Yes'}
+0.59375 {'not_entailment': 'However', 'entailment': 'Yes'}
+0.56250 {'not_entailment': 'So', 'entailment': 'Yes'}
+0.56250 {'not_entailment': 'Well', 'entailment': 'Yes'}
+0.53125 {'not_entailment': 'Now', 'entailment': 'Yes'}
+0.53125 {'not_entailment': 'In the end', 'entailment': 'Yes'}
+0.53125 {'not_entailment': 's', 'entailment': 'Yes'}
+0.53125 {'not_entailment': 'But', 'entailment': 'Yes'}
+0.53125 {'not_entailment': 'On the other hand', 'entailment': 'Yes'}
+0.53125 {'not_entailment': 'What is more', 'entailment': 'Yes'}
+0.50000 {'not_entailment': 'Then', 'entailment': 'Yes'}
+0.50000 {'not_entailment': 'For example', 'entailment': 'Yes'}
+0.50000 {'not_entailment': 'According to the report', 'entailment': 'Yes'}
+0.50000 {'not_entailment': '. In fact', 'entailment': 'Yes'}
+0.50000 {'not_entailment': 'No', 'entailment': 'Yes'}
+0.46875 {'not_entailment': 'In the past', 'entailment': 'Yes'}

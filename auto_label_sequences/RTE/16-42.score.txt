@@ -1,0 +1,20 @@
+0.59375 {'not_entailment': 'Actually', 'entailment': 'In fact'}
+0.59375 {'not_entailment': 'And', 'entailment': 'In fact'}
+0.56250 {'not_entailment': 'What is more', 'entailment': 'In fact'}
+0.53125 {'not_entailment': 'No', 'entailment': 'In fact'}
+0.53125 {'not_entailment': 'By the way', 'entailment': 'In fact'}
+0.53125 {'not_entailment': 'But', 'entailment': 'In fact'}
+0.53125 {'not_entailment': 'On the other hand', 'entailment': 'In fact'}
+0.53125 {'not_entailment': 'At the moment', 'entailment': 'In fact'}
+0.50000 {'not_entailment': 'Also', 'entailment': 'In fact'}
+0.50000 {'not_entailment': 'Now', 'entailment': 'In fact'}
+0.50000 {'not_entailment': 'For the record', 'entailment': 'In fact'}
+0.50000 {'not_entailment': 'yes', 'entailment': 'In fact'}
+0.50000 {'not_entailment': 'As far as I know', 'entailment': 'In fact'}
+0.46875 {'not_entailment': 'In other news', 'entailment': 'In fact'}
+0.46875 {'not_entailment': 'This year', 'entailment': 'In fact'}
+0.46875 {'not_entailment': "That's right", 'entailment': 'In fact'}
+0.43750 {'not_entailment': 'Well', 'entailment': 'In fact'}
+0.43750 {'not_entailment': 'As you know', 'entailment': 'In fact'}
+0.40625 {'not_entailment': 'At the same time', 'entailment': 'In fact'}
+0.40625 {'not_entailment': 'According to reports', 'entailment': 'In fact'}

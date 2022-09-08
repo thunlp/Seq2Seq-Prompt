@@ -1,0 +1,20 @@
+{0: 'Also', 1: 'The answer is'}
+{0: 'Also', 1: 'Then'}
+{0: 'For example', 1: 'The answer is'}
+{0: 'And', 1: 'The answer is'}
+{0: 'For example', 1: 'Then'}
+{0: 'And', 1: 'Then'}
+{0: 'I', 1: 'The answer is'}
+{0: 'and', 1: 'The answer is'}
+{0: 'Also', 1: 'Well'}
+{0: 'So', 1: 'The answer is'}
+{0: 'Also', 1: 'In fact'}
+{0: "That's right", 1: 'The answer is'}
+{0: 'Also', 1: 'In this case'}
+{0: 'Also', 1: 'Here'}
+{0: 'See also', 1: 'The answer is'}
+{0: 'No', 1: 'The answer is'}
+{0: 'Also', 1: 'Of course'}
+{0: 'I', 1: 'Then'}
+{0: 'Answer', 1: 'The answer is'}
+{0: 'and', 1: 'Then'}

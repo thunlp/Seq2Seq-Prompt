@@ -1,0 +1,20 @@
+{0: 'Sigh.', 1: 'Highly recommended.'}
+{0: 'Oh well.', 1: 'Highly recommended.'}
+{0: 'I hate it.', 1: 'Highly recommended.'}
+{0: 'It is not.', 1: 'Highly recommended.'}
+{0: "I'm sorry.", 1: 'Highly recommended.'}
+{0: "It's not.", 1: 'Highly recommended.'}
+{0: 'Do you agree?', 1: 'Highly recommended.'}
+{0: '. Read more.', 1: 'Highly recommended.'}
+{0: "Don't.", 1: 'Highly recommended.'}
+{0: "Don't bother.", 1: 'Highly recommended.'}
+{0: 'Beware!', 1: 'Highly recommended.'}
+{0: 'Is it?', 1: 'Highly recommended.'}
+{0: 'Read more here.', 1: 'Highly recommended.'}
+{0: '. Read More.', 1: 'Highly recommended.'}
+{0: 'You know what?', 1: 'Highly recommended.'}
+{0: 'Beware.', 1: 'Highly recommended.'}
+{0: "That's it.", 1: 'Highly recommended.'}
+{0: "It's just.", 1: 'Highly recommended.'}
+{0: 'But it works.', 1: 'Highly recommended.'}
+{0: "That's all.", 1: 'Highly recommended.'}

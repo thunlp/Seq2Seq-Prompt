@@ -1,0 +1,20 @@
+{'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'Either way'}
+{'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'To be fair'}
+{'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'As you can see'}
+{'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'At the very least'}
+{'contradiction': 'But', 'entailment': 'I mean', 'neutral': 'In addition'}
+{'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'At the moment'}
+{'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'At the end of the day'}
+{'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'In the same way'}
+{'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'For example'}
+{'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'In my opinion'}
+{'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'After all'}
+{'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'If so'}
+{'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'What is more'}
+{'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'In this case'}
+{'contradiction': 'But', 'entailment': 'I mean', 'neutral': 'In my opinion'}
+{'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'To be sure'}
+{'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'Indeed'}
+{'contradiction': 'But', 'entailment': 'I mean', 'neutral': 'For example'}
+{'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'In the past'}
+{'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'In addition'}

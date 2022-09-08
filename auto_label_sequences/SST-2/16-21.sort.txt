@@ -1,0 +1,20 @@
+{'0': 'Sorry.', '1': 'Highly recommended.'}
+{'0': 'Not recommended.', '1': 'Highly recommended.'}
+{'0': 'Oh well.', '1': 'Highly recommended.'}
+{'0': 'Not good.', '1': 'Highly recommended.'}
+{'0': 'Very disappointing.', '1': 'Highly recommended.'}
+{'0': '.', '1': 'Highly recommended.'}
+{'0': 'Good luck.', '1': 'Highly recommended.'}
+{'0': 'Enjoy.', '1': 'Highly recommended.'}
+{'0': 'Pity.', '1': 'Highly recommended.'}
+{'0': 'I think.', '1': 'Highly recommended.'}
+{'0': 'Watch it.', '1': 'Highly recommended.'}
+{'0': 'I agree.', '1': 'Highly recommended.'}
+{'0': 'Thanks.', '1': 'Highly recommended.'}
+{'0': 'Too bad.', '1': 'Highly recommended.'}
+{'0': 'Good luck!', '1': 'Highly recommended.'}
+{'0': 'Sigh.', '1': 'Highly recommended.'}
+{'0': '. Enjoy!', '1': 'Highly recommended.'}
+{'0': '. Enjoy.', '1': 'Highly recommended.'}
+{'0': 'Enjoy!', '1': 'Highly recommended.'}
+{'0': 'Thanks!', '1': 'Highly recommended.'}

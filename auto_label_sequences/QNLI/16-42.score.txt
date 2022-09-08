@@ -1,0 +1,20 @@
+0.75000 {'not_entailment': 'However', 'entailment': 'Yes'}
+0.75000 {'not_entailment': 'However', 'entailment': 'In short'}
+0.71875 {'not_entailment': 'However', 'entailment': 'In fact'}
+0.71875 {'not_entailment': 'However', 'entailment': 'According to Wikipedia'}
+0.71875 {'not_entailment': 'However', 'entailment': 'The answer is'}
+0.68750 {'not_entailment': 'However', 'entailment': 'Well'}
+0.68750 {'not_entailment': 'In addition', 'entailment': 'Well'}
+0.68750 {'not_entailment': 'In addition', 'entailment': 'Yes'}
+0.68750 {'not_entailment': 'However', 'entailment': 'After all'}
+0.65625 {'not_entailment': 'In addition', 'entailment': 'For example'}
+0.65625 {'not_entailment': 'However', 'entailment': 'Actually'}
+0.65625 {'not_entailment': 'In addition', 'entailment': 'First'}
+0.65625 {'not_entailment': 'However', 'entailment': 'As mentioned'}
+0.62500 {'not_entailment': 'However', 'entailment': 'For example'}
+0.62500 {'not_entailment': 'However', 'entailment': 'As an example'}
+0.62500 {'not_entailment': 'In addition', 'entailment': 'Actually'}
+0.59375 {'not_entailment': 'However', 'entailment': 'As mentioned above'}
+0.56250 {'not_entailment': 'However', 'entailment': 'First'}
+0.53125 {'not_entailment': 'In addition', 'entailment': 'In fact'}
+0.50000 {'not_entailment': 'However', 'entailment': 'As noted above'}

@@ -1,0 +1,20 @@
+{'contradiction': 'Actually', 'entailment': 'yes', 'neutral': 'Yeah'}
+{'contradiction': 'Actually', 'entailment': 'yes', 'neutral': 'Sure'}
+{'contradiction': 'Actually', 'entailment': 'A', 'neutral': 'Yeah'}
+{'contradiction': 'Actually', 'entailment': 'A', 'neutral': 'Sure'}
+{'contradiction': 'In the background', 'entailment': 'yes', 'neutral': 'Yeah'}
+{'contradiction': 'Actually', 'entailment': 'In other words', 'neutral': 'Yeah'}
+{'contradiction': 'In the background', 'entailment': 'yes', 'neutral': 'Sure'}
+{'contradiction': 'In the background', 'entailment': 'A', 'neutral': 'Yeah'}
+{'contradiction': 'Actually', 'entailment': 'Answer: Yes', 'neutral': 'Yeah'}
+{'contradiction': 'Actually', 'entailment': 'To the right', 'neutral': 'Yeah'}
+{'contradiction': 'Actually', 'entailment': 'In other words', 'neutral': 'Sure'}
+{'contradiction': 'In the background', 'entailment': 'A', 'neutral': 'Sure'}
+{'contradiction': 'Actually', 'entailment': 'Answer: Yes', 'neutral': 'Sure'}
+{'contradiction': 'Actually', 'entailment': 'To the right', 'neutral': 'Sure'}
+{'contradiction': 'Actually', 'entailment': 'In the middle', 'neutral': 'Yeah'}
+{'contradiction': 'Actually', 'entailment': 'yes', 'neutral': "That's right"}
+{'contradiction': 'In the background', 'entailment': 'In other words', 'neutral': 'Yeah'}
+{'contradiction': 'Actually', 'entailment': 'In the picture below', 'neutral': 'Yeah'}
+{'contradiction': 'Actually', 'entailment': 'In the middle', 'neutral': 'Sure'}
+{'contradiction': 'In the background', 'entailment': 'Answer: Yes', 'neutral': 'Yeah'}

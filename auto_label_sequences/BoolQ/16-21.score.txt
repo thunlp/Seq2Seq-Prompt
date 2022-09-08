@@ -1,0 +1,20 @@
+0.65625 {False: 'No', True: 'Yes'}
+0.62500 {False: 'New York', True: 'Yes'}
+0.62500 {False: 'Or', True: 'Yes'}
+0.59375 {False: 'So', True: 'Yes'}
+0.59375 {False: 'Hi', True: 'Yes'}
+0.59375 {False: 'Title', True: 'Yes'}
+0.59375 {False: 'From Wikipedia', True: 'Yes'}
+0.56250 {False: 'If not', True: 'Yes'}
+0.56250 {False: 'On the other hand', True: 'Yes'}
+0.56250 {False: 'Also', True: 'Yes'}
+0.56250 {False: 'Well', True: 'Yes'}
+0.53125 {False: 'About this page', True: 'Yes'}
+0.53125 {False: 'According to Wikipedia', True: 'Yes'}
+0.53125 {False: 'A: No', True: 'Yes'}
+0.53125 {False: 'First', True: 'Yes'}
+0.53125 {False: 'Ah', True: 'Yes'}
+0.50000 {False: 'Hello', True: 'Yes'}
+0.50000 {False: 'And', True: 'Yes'}
+0.50000 {False: 'About', True: 'Yes'}
+0.46875 {False: 'About this article', True: 'Yes'}

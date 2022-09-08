@@ -1,0 +1,20 @@
+0.65625 {'not_entailment': 'After all', 'entailment': 'Yes'}
+0.62500 {'not_entailment': 'Meanwhile', 'entailment': 'Yes'}
+0.62500 {'not_entailment': 'In the meantime', 'entailment': 'Yes'}
+0.62500 {'not_entailment': 'In the end', 'entailment': 'Yes'}
+0.59375 {'not_entailment': 'Finally', 'entailment': 'Yes'}
+0.59375 {'not_entailment': 'At the same time', 'entailment': 'Yes'}
+0.59375 {'not_entailment': 'In addition', 'entailment': 'Yes'}
+0.59375 {'not_entailment': 'However', 'entailment': 'Yes'}
+0.59375 {'not_entailment': 'In short', 'entailment': 'Yes'}
+0.56250 {'not_entailment': 'And', 'entailment': 'Yes'}
+0.56250 {'not_entailment': 'For the first time', 'entailment': 'Yes'}
+0.56250 {'not_entailment': 'In the past year', 'entailment': 'Yes'}
+0.53125 {'not_entailment': 'Now', 'entailment': 'Yes'}
+0.53125 {'not_entailment': 'First', 'entailment': 'Yes'}
+0.53125 {'not_entailment': 'Then', 'entailment': 'Yes'}
+0.50000 {'not_entailment': 'Today', 'entailment': 'Yes'}
+0.50000 {'not_entailment': 'On the other hand', 'entailment': 'Yes'}
+0.50000 {'not_entailment': 'This week', 'entailment': 'Yes'}
+0.50000 {'not_entailment': 'By the way', 'entailment': 'Yes'}
+0.50000 {'not_entailment': 'This year', 'entailment': 'Yes'}

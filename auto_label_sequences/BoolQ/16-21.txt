@@ -1,0 +1,20 @@
+{False: 'No', True: 'Yes'}
+{False: 'Also', True: 'Yes'}
+{False: 'Well', True: 'Yes'}
+{False: 'Title', True: 'Yes'}
+{False: 'Ah', True: 'Yes'}
+{False: 'About', True: 'Yes'}
+{False: 'Hello', True: 'Yes'}
+{False: 'From Wikipedia', True: 'Yes'}
+{False: 'First', True: 'Yes'}
+{False: 'Hi', True: 'Yes'}
+{False: 'New York', True: 'Yes'}
+{False: 'And', True: 'Yes'}
+{False: 'If not', True: 'Yes'}
+{False: 'According to Wikipedia', True: 'Yes'}
+{False: 'On the other hand', True: 'Yes'}
+{False: 'About this page', True: 'Yes'}
+{False: 'A: No', True: 'Yes'}
+{False: 'About this article', True: 'Yes'}
+{False: 'So', True: 'Yes'}
+{False: 'Or', True: 'Yes'}

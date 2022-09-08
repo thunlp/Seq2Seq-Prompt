@@ -1,0 +1,20 @@
+{'0': 'Then', '1': 'Yes'}
+{'0': 'Next', '1': 'Yes'}
+{'0': 'In the end', '1': 'Yes'}
+{'0': 'In the background', '1': 'Yes'}
+{'0': 'Why', '1': 'Yes'}
+{'0': 'And', '1': 'Yes'}
+{'0': 'Finally', '1': 'Yes'}
+{'0': 'Now', '1': 'Yes'}
+{'0': 'No, no', '1': 'Yes'}
+{'0': 'and', '1': 'Yes'}
+{'0': 'Oh', '1': 'Yes'}
+{'0': 's', '1': 'Yes'}
+{'0': 'In the meantime', '1': 'Yes'}
+{'0': 'In other news', '1': 'Yes'}
+{'0': 'In the middle', '1': 'Yes'}
+{'0': 'On the other hand', '1': 'Yes'}
+{'0': 'By the way', '1': 'Yes'}
+{'0': ',', '1': 'Yes'}
+{'0': 'On the other side', '1': 'Yes'}
+{'0': 'At the same time', '1': 'Yes'}

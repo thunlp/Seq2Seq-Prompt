@@ -1,0 +1,20 @@
+0.68750 {False: 'No', True: 'U.S.A.'}
+0.65625 {False: 'No', True: 'U.S. Department of the Interior'}
+0.65625 {False: 'No', True: 'U.S. Department of State'}
+0.62500 {False: 'No', True: 'According to Wikipedia'}
+0.62500 {False: 'No', True: 'What is it?'}
+0.62500 {False: 'No', True: 'Answer:Yes'}
+0.62500 {False: 'No', True: 'U.S.'}
+0.62500 {False: 'No', True: 'Summary'}
+0.59375 {False: 'No', True: 'Home'}
+0.59375 {False: 'No', True: 'About this page'}
+0.56250 {False: 'No', True: 'If so'}
+0.56250 {False: 'No', True: 'Hi'}
+0.56250 {False: 'No', True: 'New York, NY'}
+0.56250 {False: 'No', True: 'New York, New York'}
+0.56250 {False: 'No', True: ','}
+0.53125 {False: 'No', True: 'What is the best way to do this?'}
+0.53125 {False: 'No', True: '.'}
+0.53125 {False: 'No', True: 'If yes'}
+0.53125 {False: 'No', True: 'New York'}
+0.50000 {False: 'No', True: 'What is the best way to find out?'}

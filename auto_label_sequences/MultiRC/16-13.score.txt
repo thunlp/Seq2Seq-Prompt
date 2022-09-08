@@ -1,0 +1,20 @@
+0.50000 {0: 'and', 1: 'The answer is'}
+0.50000 {0: 'and', 1: 'Then'}
+0.46875 {0: "That's right", 1: 'The answer is'}
+0.40625 {0: 'I', 1: 'The answer is'}
+0.34375 {0: 'So', 1: 'The answer is'}
+0.34375 {0: 'Also', 1: 'In fact'}
+0.31250 {0: 'And', 1: 'The answer is'}
+0.31250 {0: 'No', 1: 'The answer is'}
+0.31250 {0: 'I', 1: 'Then'}
+0.28125 {0: 'For example', 1: 'The answer is'}
+0.25000 {0: 'Answer', 1: 'The answer is'}
+0.25000 {0: 'Also', 1: 'Well'}
+0.25000 {0: 'Also', 1: 'The answer is'}
+0.25000 {0: 'And', 1: 'Then'}
+0.21875 {0: 'For example', 1: 'Then'}
+0.21875 {0: 'Also', 1: 'In this case'}
+0.18750 {0: 'Also', 1: 'Of course'}
+0.18750 {0: 'Also', 1: 'Here'}
+0.18750 {0: 'Also', 1: 'Then'}
+0.15625 {0: 'See also', 1: 'The answer is'}

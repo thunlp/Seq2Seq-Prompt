@@ -1,0 +1,20 @@
+{False: 'No', True: 'About'}
+{False: 'No', True: 'Ans'}
+{False: 'No', True: 'If so'}
+{False: 'No', True: 'If not'}
+{False: 'No', True: 'For example'}
+{False: 'No', True: 'Answer: Yes'}
+{False: 'No', True: 'Answer:Yes'}
+{False: 'No', True: 'In short'}
+{False: 'No', True: 'Definition'}
+{False: 'No', True: 'If yes'}
+{False: 'No', True: 'In general'}
+{False: 'No', True: 'The answer is'}
+{False: 'No', True: 'The answer is yes'}
+{False: 'No', True: 'In this article'}
+{False: 'No', True: 'A'}
+{False: 'No', True: 'Hi'}
+{False: 'No', True: 'Answer'}
+{False: 'No', True: '-- Yes'}
+{False: 'No', True: 'See also'}
+{False: 'No', True: ','}

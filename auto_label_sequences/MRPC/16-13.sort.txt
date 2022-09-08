@@ -1,0 +1,20 @@
+{'0': 'On the other hand', '1': 'Yes'}
+{'0': 'At the same time', '1': 'Yes'}
+{'0': 'In the meantime', '1': 'Yes'}
+{'0': 'Finally', '1': 'Yes'}
+{'0': 'In other news', '1': 'Yes'}
+{'0': '. In addition', '1': 'Yes'}
+{'0': 'In addition', '1': 'Yes'}
+{'0': 'However', '1': 'Yes'}
+{'0': 'On Friday', '1': 'Yes'}
+{'0': 'Today', '1': 'Yes'}
+{'0': 'In other words', '1': 'Yes'}
+{'0': 'This week', '1': 'Yes'}
+{'0': 'Last week', '1': 'Yes'}
+{'0': '. At the same time', '1': 'Yes'}
+{'0': 'By the way', '1': 'Yes'}
+{'0': 'On Monday', '1': 'Yes'}
+{'0': 'In the United States', '1': 'Yes'}
+{'0': 'Also', '1': 'Yes'}
+{'0': 'In fact', '1': 'Yes'}
+{'0': 'Meanwhile', '1': 'Yes'}

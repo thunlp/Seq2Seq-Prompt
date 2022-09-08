@@ -1,0 +1,20 @@
+{'not_entailment': 'In fact', 'entailment': 'Yes'}
+{'not_entailment': 'In fact', 'entailment': 'Well'}
+{'not_entailment': 'In fact', 'entailment': 'So'}
+{'not_entailment': 'In fact', 'entailment': 'According to Wikipedia'}
+{'not_entailment': 'In addition', 'entailment': 'Yes'}
+{'not_entailment': 'In fact', 'entailment': 'The answer is'}
+{'not_entailment': 'In fact', 'entailment': 'And'}
+{'not_entailment': 'In fact', 'entailment': 'Thus'}
+{'not_entailment': 'In fact', 'entailment': 'Therefore'}
+{'not_entailment': 'In fact', 'entailment': 'As mentioned above'}
+{'not_entailment': 'In fact', 'entailment': 'Then'}
+{'not_entailment': 'In fact', 'entailment': 'In the United States'}
+{'not_entailment': 'In fact', 'entailment': 'The answer is that'}
+{'not_entailment': 'In fact', 'entailment': 'That is'}
+{'not_entailment': 'In fact', 'entailment': 'As mentioned'}
+{'not_entailment': 'In fact', 'entailment': 'As noted above'}
+{'not_entailment': 'In fact', 'entailment': 'As stated above'}
+{'not_entailment': 'In fact', 'entailment': 'In the past'}
+{'not_entailment': 'In fact', 'entailment': 'To answer the question'}
+{'not_entailment': 'In fact', 'entailment': 'As far as I know'}

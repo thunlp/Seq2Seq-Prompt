@@ -1,0 +1,20 @@
+{0: 'bad', 1: 'good'}
+{0: 'quite good', 1: 'good'}
+{0: 'really good', 1: 'good'}
+{0: 'very positive', 1: 'good'}
+{0: 'very good', 1: 'good'}
+{0: 'quite positive', 1: 'good'}
+{0: 'very high', 1: 'good'}
+{0: 'pretty good', 1: 'good'}
+{0: 'mixed', 1: 'good'}
+{0: 'one', 1: 'good'}
+{0: 'above', 1: 'good'}
+{0: 'not bad', 1: 'good'}
+{0: 'poor', 1: 'good'}
+{0: 'amazing', 1: 'good'}
+{0: 'not good', 1: 'good'}
+{0: 'the best', 1: 'good'}
+{0: 'better', 1: 'good'}
+{0: 'negative', 1: 'good'}
+{0: 'the same', 1: 'good'}
+{0: 'below', 1: 'good'}

@@ -1,0 +1,20 @@
+0.83333 {'contradiction': 'In the next picture', 'entailment': 'Yes', 'neutral': 'In the background'}
+0.79167 {'contradiction': 'Then', 'entailment': 'Yes', 'neutral': 'In the background'}
+0.79167 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'In this scene'}
+0.79167 {'contradiction': 'In the second photo', 'entailment': 'Yes', 'neutral': 'In the background'}
+0.79167 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'Maybe'}
+0.79167 {'contradiction': 'Actually', 'entailment': 'Yes', 'neutral': 'In the background'}
+0.77083 {'contradiction': 'Finally', 'entailment': 'Yes', 'neutral': 'In the background'}
+0.77083 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'In this shot'}
+0.77083 {'contradiction': 'Next', 'entailment': 'Yes', 'neutral': 'In the background'}
+0.75000 {'contradiction': 'Or', 'entailment': 'Yes', 'neutral': 'In the background'}
+0.75000 {'contradiction': 'In the next photo', 'entailment': 'Yes', 'neutral': 'In the background'}
+0.72917 {'contradiction': 'On the other side', 'entailment': 'Yes', 'neutral': 'In the background'}
+0.72917 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'In the distance'}
+0.72917 {'contradiction': 'On the other hand', 'entailment': 'Yes', 'neutral': 'In the background'}
+0.70833 {'contradiction': 'Nope', 'entailment': 'Yes', 'neutral': 'In the background'}
+0.68750 {'contradiction': 'In the last picture', 'entailment': 'Yes', 'neutral': 'In the background'}
+0.66667 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'In the background'}
+0.66667 {'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'On the street'}
+0.64583 {'contradiction': 'At the same time', 'entailment': 'Yes', 'neutral': 'In the background'}
+0.60417 {'contradiction': 'As you can see', 'entailment': 'Yes', 'neutral': 'In the background'}

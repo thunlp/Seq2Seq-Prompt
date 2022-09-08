@@ -1,0 +1,20 @@
+{'contradiction': 'A: No', 'entailment': 'Yep', 'neutral': 'A: Yes'}
+{'contradiction': 'A: No', 'entailment': 'Indeed', 'neutral': 'A: Yes'}
+{'contradiction': 'A: No', 'entailment': 'After all', 'neutral': 'A: Yes'}
+{'contradiction': 'A: No', 'entailment': 'You see', 'neutral': 'A: Yes'}
+{'contradiction': 'A: No', 'entailment': 'yes', 'neutral': 'A: Yes'}
+{'contradiction': 'A: No', 'entailment': 'Again', 'neutral': 'A: Yes'}
+{'contradiction': 'A: No', 'entailment': 'But no', 'neutral': 'A: Yes'}
+{'contradiction': 'A: No', 'entailment': 'And yes', 'neutral': 'A: Yes'}
+{'contradiction': 'A: No', 'entailment': 'In fact', 'neutral': 'A: Yes'}
+{'contradiction': 'A: No', 'entailment': 'Well, yes', 'neutral': 'A: Yes'}
+{'contradiction': 'A: No', 'entailment': 'Why', 'neutral': 'A: Yes'}
+{'contradiction': 'A: No', 'entailment': 'Oh yes', 'neutral': 'A: Yes'}
+{'contradiction': 'A: No', 'entailment': 'Of course', 'neutral': 'A: Yes'}
+{'contradiction': 'A: No', 'entailment': 'In the end', 'neutral': 'A: Yes'}
+{'contradiction': 'A: No', 'entailment': 'Yes, indeed', 'neutral': 'A: Yes'}
+{'contradiction': 'A: No', 'entailment': 'By the way', 'neutral': 'A: Yes'}
+{'contradiction': 'A: No', 'entailment': 'Then again', 'neutral': 'A: Yes'}
+{'contradiction': 'A: No', 'entailment': 'On the other hand', 'neutral': 'A: Yes'}
+{'contradiction': 'A: No', 'entailment': 'Also', 'neutral': 'A: Yes'}
+{'contradiction': 'A: No', 'entailment': 'However', 'neutral': 'A: Yes'}

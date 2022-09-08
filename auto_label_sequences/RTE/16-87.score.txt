@@ -1,0 +1,20 @@
+0.75000 {'not_entailment': 'For example', 'entailment': 'Yes'}
+0.71875 {'not_entailment': 'In fact', 'entailment': 'Yes'}
+0.68750 {'not_entailment': 'In all', 'entailment': 'Yes'}
+0.65625 {'not_entailment': 'Also', 'entailment': 'Yes'}
+0.65625 {'not_entailment': 'In the same way', 'entailment': 'Yes'}
+0.62500 {'not_entailment': 'Today', 'entailment': 'Yes'}
+0.62500 {'not_entailment': 'In addition', 'entailment': 'Yes'}
+0.62500 {'not_entailment': 'However', 'entailment': 'Yes'}
+0.62500 {'not_entailment': 'Meanwhile', 'entailment': 'Yes'}
+0.62500 {'not_entailment': 'Furthermore', 'entailment': 'Yes'}
+0.62500 {'not_entailment': 'On the other hand', 'entailment': 'Yes'}
+0.62500 {'not_entailment': 'At the moment', 'entailment': 'Yes'}
+0.62500 {'not_entailment': 'In the world', 'entailment': 'Yes'}
+0.59375 {'not_entailment': 'At the same time', 'entailment': 'Yes'}
+0.59375 {'not_entailment': 'In the meantime', 'entailment': 'Yes'}
+0.59375 {'not_entailment': 'Now', 'entailment': 'Yes'}
+0.59375 {'not_entailment': 'In the United States', 'entailment': 'Yes'}
+0.59375 {'not_entailment': 'In other words', 'entailment': 'Yes'}
+0.59375 {'not_entailment': 'According to the report', 'entailment': 'Yes'}
+0.53125 {'not_entailment': '. In addition', 'entailment': 'Yes'}

@@ -1,0 +1,20 @@
+{'contradiction': 'In the next picture', 'entailment': 'Yes', 'neutral': 'In the background'}
+{'contradiction': 'Then', 'entailment': 'Yes', 'neutral': 'In the background'}
+{'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'In this scene'}
+{'contradiction': 'In the second photo', 'entailment': 'Yes', 'neutral': 'In the background'}
+{'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'Maybe'}
+{'contradiction': 'Actually', 'entailment': 'Yes', 'neutral': 'In the background'}
+{'contradiction': 'Finally', 'entailment': 'Yes', 'neutral': 'In the background'}
+{'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'In this shot'}
+{'contradiction': 'Next', 'entailment': 'Yes', 'neutral': 'In the background'}
+{'contradiction': 'Or', 'entailment': 'Yes', 'neutral': 'In the background'}
+{'contradiction': 'In the next photo', 'entailment': 'Yes', 'neutral': 'In the background'}
+{'contradiction': 'On the other side', 'entailment': 'Yes', 'neutral': 'In the background'}
+{'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'In the distance'}
+{'contradiction': 'On the other hand', 'entailment': 'Yes', 'neutral': 'In the background'}
+{'contradiction': 'Nope', 'entailment': 'Yes', 'neutral': 'In the background'}
+{'contradiction': 'In the last picture', 'entailment': 'Yes', 'neutral': 'In the background'}
+{'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'In the background'}
+{'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'On the street'}
+{'contradiction': 'At the same time', 'entailment': 'Yes', 'neutral': 'In the background'}
+{'contradiction': 'As you can see', 'entailment': 'Yes', 'neutral': 'In the background'}

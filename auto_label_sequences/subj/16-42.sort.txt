@@ -1,0 +1,20 @@
+{0: 'I loved it.', 1: 'The story continues.'}
+{0: 'I love it.', 1: '. Read more.'}
+{0: 'I like it.', 1: 'The story continues.'}
+{0: "Don't miss it.", 1: '. Read more.'}
+{0: 'I liked it.', 1: 'The story continues.'}
+{0: 'I love it.', 1: 'The story continues.'}
+{0: 'I loved it.', 1: 'Find out why.'}
+{0: 'I loved it.', 1: 'What will happen?'}
+{0: 'I recommend it.', 1: 'The story continues.'}
+{0: 'A must see.', 1: '. Read more.'}
+{0: 'I like it.', 1: '. Read more.'}
+{0: 'I liked it.', 1: '. Read more.'}
+{0: 'I loved it.', 1: 'Watch the movie.'}
+{0: 'I loved it.', 1: '. Read more.'}
+{0: 'A must see.', 1: 'What will happen?'}
+{0: 'A must see.', 1: 'The story continues.'}
+{0: 'A must see.', 1: 'Find out why.'}
+{0: 'Read the full review.', 1: '. Read more.'}
+{0: 'I recommend it.', 1: '. Read more.'}
+{0: 'I really enjoyed it.', 1: '. Read more.'}

@@ -1,0 +1,20 @@
+0.75000 {'0': 'Also', '1': 'So'}
+0.75000 {'0': 'Hello', '1': 'So'}
+0.75000 {'0': 'Also', '1': 'In short'}
+0.75000 {'0': 'How do I know', '1': 'So'}
+0.73684 {'0': 'And finally', '1': 'So'}
+0.73171 {'0': 'For example', '1': 'So'}
+0.73171 {'0': 'How do you say', '1': 'So'}
+0.71429 {'0': 'Also', '1': 'In your opinion'}
+0.71429 {'0': 'Or', '1': 'So'}
+0.71429 {'0': 'Also', '1': 'If so'}
+0.71429 {'0': 'How do you know', '1': 'So'}
+0.71429 {'0': 'Finally', '1': 'So'}
+0.71429 {'0': 'I am not sure', '1': 'So'}
+0.71429 {'0': 'In addition to this', '1': 'So'}
+0.70000 {'0': 'In the same way', '1': 'So'}
+0.68293 {'0': 'As an example', '1': 'So'}
+0.68293 {'0': "I'm not sure", '1': 'So'}
+0.66667 {'0': "I'm curious", '1': 'So'}
+0.66667 {'0': 'I want to ask', '1': 'So'}
+0.64865 {'0': 'Hi', '1': 'So'}

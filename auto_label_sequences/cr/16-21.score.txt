@@ -1,0 +1,20 @@
+0.93750 {0: '. lol.', 1: 'Highly recommended.'}
+0.90625 {0: 'Please help.', 1: 'Highly recommended.'}
+0.90625 {0: 'Any suggestions?', 1: 'Highly recommended.'}
+0.90625 {0: '. LOL!', 1: 'Highly recommended.'}
+0.90625 {0: 'I hope.', 1: 'Highly recommended.'}
+0.90625 {0: 'Sigh.', 1: 'Highly recommended.'}
+0.90625 {0: '. LOL.', 1: 'Highly recommended.'}
+0.90625 {0: '. Good luck!', 1: 'Highly recommended.'}
+0.90625 {0: '. Good luck.', 1: 'Highly recommended.'}
+0.90625 {0: 'Sorry.', 1: 'Highly recommended.'}
+0.90625 {0: 'Good luck!', 1: 'Highly recommended.'}
+0.87500 {0: 'Good luck.', 1: 'Highly recommended.'}
+0.87500 {0: 'Please help!', 1: 'Highly recommended.'}
+0.87500 {0: '. Thanks.', 1: 'Highly recommended.'}
+0.87500 {0: 'It is.', 1: 'Highly recommended.'}
+0.87500 {0: 'Is it?', 1: 'Highly recommended.'}
+0.87500 {0: 'Why?', 1: 'Highly recommended.'}
+0.87500 {0: '.no.', 1: 'Highly recommended.'}
+0.84375 {0: 'I think.', 1: 'Highly recommended.'}
+0.62500 {0: 'I hate it.', 1: 'Highly recommended.'}

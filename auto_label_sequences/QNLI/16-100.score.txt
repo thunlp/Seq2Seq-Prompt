@@ -1,0 +1,20 @@
+0.81250 {'not_entailment': 'In fact', 'entailment': 'Therefore'}
+0.75000 {'not_entailment': 'In fact', 'entailment': 'So'}
+0.75000 {'not_entailment': 'In fact', 'entailment': 'Thus'}
+0.75000 {'not_entailment': 'In fact', 'entailment': 'That is'}
+0.71875 {'not_entailment': 'In fact', 'entailment': 'In the United States'}
+0.68750 {'not_entailment': 'In fact', 'entailment': 'Well'}
+0.68750 {'not_entailment': 'In fact', 'entailment': 'Yes'}
+0.68750 {'not_entailment': 'In fact', 'entailment': 'The answer is'}
+0.68750 {'not_entailment': 'In fact', 'entailment': 'Then'}
+0.68750 {'not_entailment': 'In fact', 'entailment': 'The answer is that'}
+0.68750 {'not_entailment': 'In fact', 'entailment': 'In the past'}
+0.65625 {'not_entailment': 'In fact', 'entailment': 'And'}
+0.65625 {'not_entailment': 'In fact', 'entailment': 'As mentioned'}
+0.62500 {'not_entailment': 'In fact', 'entailment': 'According to Wikipedia'}
+0.62500 {'not_entailment': 'In addition', 'entailment': 'Yes'}
+0.62500 {'not_entailment': 'In fact', 'entailment': 'As noted above'}
+0.62500 {'not_entailment': 'In fact', 'entailment': 'As stated above'}
+0.62500 {'not_entailment': 'In fact', 'entailment': 'To answer the question'}
+0.62500 {'not_entailment': 'In fact', 'entailment': 'As far as I know'}
+0.56250 {'not_entailment': 'In fact', 'entailment': 'As mentioned above'}

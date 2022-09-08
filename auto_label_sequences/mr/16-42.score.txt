@@ -1,0 +1,20 @@
+0.93750 {0: 'Not for me.', 1: 'Highly recommended.'}
+0.93750 {0: 'Oh well.', 1: 'Highly recommended.'}
+0.87500 {0: 'Sigh.', 1: 'Highly recommended.'}
+0.87500 {0: 'I think.', 1: 'Highly recommended.'}
+0.87500 {0: 'See for yourself.', 1: 'Highly recommended.'}
+0.84375 {0: "Don't.", 1: 'Highly recommended.'}
+0.84375 {0: 'Do you agree?', 1: 'Highly recommended.'}
+0.81250 {0: 'Watch this space!', 1: 'Highly recommended.'}
+0.78125 {0: 'Watch this space.', 1: 'Highly recommended.'}
+0.78125 {0: 'Not for everyone.', 1: 'Highly recommended.'}
+0.75000 {0: 'The end.', 1: 'Highly recommended.'}
+0.71875 {0: 'Watch it below.', 1: 'Highly recommended.'}
+0.71875 {0: 'See for yourself!', 1: 'Highly recommended.'}
+0.71875 {0: 'Read the full review.', 1: 'Highly recommended.'}
+0.68750 {0: '. Read more.', 1: 'Highly recommended.'}
+0.68750 {0: 'Good luck.', 1: 'Highly recommended.'}
+0.65625 {0: 'Watch the trailer.', 1: 'Highly recommended.'}
+0.62500 {0: 'Good luck!', 1: 'Highly recommended.'}
+0.59375 {0: 'I hope.', 1: 'Highly recommended.'}
+0.56250 {0: 'Check out the trailer.', 1: 'Highly recommended.'}

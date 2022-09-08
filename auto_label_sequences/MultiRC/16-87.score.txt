@@ -1,0 +1,20 @@
+0.50000 {0: 'I.e.', 1: 'The answer is'}
+0.50000 {0: 'A', 1: 'The answer is'}
+0.50000 {0: 'I', 1: 'Well'}
+0.50000 {0: 'E.g.', 1: 'Well'}
+0.50000 {0: 'See also', 1: 'Well'}
+0.50000 {0: 'B', 1: 'Well'}
+0.50000 {0: 'E.g.', 1: 'The answer is'}
+0.50000 {0: 'C', 1: 'Well'}
+0.50000 {0: 'I.e.', 1: 'Well'}
+0.46875 {0: 'B.', 1: 'The answer is'}
+0.46875 {0: 'C', 1: 'The answer is'}
+0.46875 {0: 'Here', 1: 'Well'}
+0.46875 {0: 'A', 1: 'Well'}
+0.40625 {0: 'A.', 1: 'The answer is'}
+0.37500 {0: 'No', 1: 'Well'}
+0.31250 {0: 'B', 1: 'The answer is'}
+0.25000 {0: 'I', 1: 'The answer is'}
+0.21875 {0: 'Here', 1: 'The answer is'}
+0.21875 {0: 'See also', 1: 'The answer is'}
+0.21875 {0: 'No', 1: 'The answer is'}

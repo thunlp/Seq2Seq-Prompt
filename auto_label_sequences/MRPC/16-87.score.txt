@@ -1,0 +1,20 @@
+0.76190 {'0': 'In fact', '1': 'According to the report'}
+0.73171 {'0': 'In fact', '1': 'According to the statement'}
+0.71429 {'0': 'In fact', '1': '. In addition'}
+0.70270 {'0': 'In fact', '1': 'According to the article'}
+0.70270 {'0': 'In fact', '1': '. According to the report'}
+0.70270 {'0': 'In fact', '1': 'According to the latest report'}
+0.70000 {'0': 'In fact', '1': 'Reportedly'}
+0.69565 {'0': 'In fact', '1': 'Yes'}
+0.69565 {'0': 'In fact', '1': 'Again'}
+0.68085 {'0': 'In fact', '1': 'Well'}
+0.68085 {'0': 'In fact', '1': 'According to the official'}
+0.68085 {'0': 'In fact', '1': 'No'}
+0.68085 {'0': 'In fact', '1': 'Of course'}
+0.66667 {'0': 'In fact', '1': 'At the moment'}
+0.66667 {'0': 'In fact', '1': 'At the time of writing'}
+0.62222 {'0': 'In fact', '1': 'At this point'}
+0.61111 {'0': 'In fact', '1': 'For the record'}
+0.60000 {'0': 'In fact', '1': 'In that case'}
+0.55556 {'0': 'In fact', '1': 'On the same day'}
+0.52381 {'0': 'In fact', '1': 'In this case'}

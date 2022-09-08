@@ -1,0 +1,20 @@
+0.71875 {False: 'is an adjective.', True: 'can be.'}
+0.71875 {False: 'is an adjective.', True: 'means to.'}
+0.68750 {False: 'is an adjective.', True: 'is not defined.'}
+0.68750 {False: 'is an adjective.', True: 'is not in.'}
+0.68750 {False: 'is an adjective.', True: 'is the key.'}
+0.68750 {False: 'is an adjective.', True: 'is very important.'}
+0.68750 {False: 'is an adjective.', True: 'is not allowed.'}
+0.65625 {False: 'is an adjective.', True: 'is not available.'}
+0.65625 {False: 'is an adjective.', True: 'is not used.'}
+0.65625 {False: 'is an adjective.', True: 'does not work.'}
+0.65625 {False: 'is an adjective.', True: 'is the word.'}
+0.65625 {False: 'is an adjective.', True: 'is not required.'}
+0.62500 {False: 'is an adjective.', True: 'has no meaning.'}
+0.62500 {False: 'is an adjective.', True: 'is in.'}
+0.62500 {False: 'is an adjective.', True: 'is no longer.'}
+0.59375 {False: 'is an adjective.', True: 'is short.'}
+0.59375 {False: 'is an adjective.', True: 'does not exist.'}
+0.59375 {False: 'is an adjective.', True: 'is wrong.'}
+0.56250 {False: 'is an adjective.', True: 'means something.'}
+0.53125 {False: 'is an adjective.', True: 'is used.'}

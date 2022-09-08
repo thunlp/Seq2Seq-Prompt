@@ -1,0 +1,20 @@
+{'0': 'In fact', '1': 'According to the report'}
+{'0': 'In fact', '1': 'According to the statement'}
+{'0': 'In fact', '1': '. In addition'}
+{'0': 'In fact', '1': 'According to the article'}
+{'0': 'In fact', '1': '. According to the report'}
+{'0': 'In fact', '1': 'According to the latest report'}
+{'0': 'In fact', '1': 'Reportedly'}
+{'0': 'In fact', '1': 'Yes'}
+{'0': 'In fact', '1': 'Again'}
+{'0': 'In fact', '1': 'Well'}
+{'0': 'In fact', '1': 'According to the official'}
+{'0': 'In fact', '1': 'No'}
+{'0': 'In fact', '1': 'Of course'}
+{'0': 'In fact', '1': 'At the moment'}
+{'0': 'In fact', '1': 'At the time of writing'}
+{'0': 'In fact', '1': 'At this point'}
+{'0': 'In fact', '1': 'For the record'}
+{'0': 'In fact', '1': 'In that case'}
+{'0': 'In fact', '1': 'On the same day'}
+{'0': 'In fact', '1': 'In this case'}

@@ -1,0 +1,20 @@
+{0: 'I hate it.', 1: 'But it works.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+{0: 'Good luck with that.', 1: "Don't bother.", 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+{0: 'Good luck with that.', 1: 'But it is.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+{0: 'Good luck with that.', 1: 'Watch this space.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+{0: "Don't do it.", 1: 'Watch this space.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+{0: "It's just.", 1: 'But it works.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+{0: 'Good luck with that.', 1: 'I have no complaints.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+{0: "Don't do it.", 1: 'I have no complaints.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+{0: "Don't do it.", 1: 'But it works.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+{0: "Don't do it.", 1: 'But it is.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+{0: "Don't do it.", 1: "Don't bother.", 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+{0: 'Good luck with that.', 1: 'But it works.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+{0: 'I hate it.', 1: 'But it is.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+{0: 'I hate it.', 1: 'Watch this space.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+{0: 'You know what?', 1: "Don't bother.", 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+{0: "It's not.", 1: 'But it works.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+{0: 'I hate it.', 1: "Don't bother.", 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+{0: "It's not.", 1: "Don't bother.", 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+{0: "It's just.", 1: "Don't bother.", 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}
+{0: "It's just.", 1: 'But it is.', 2: '. Read more.', 3: 'Enjoy!', 4: 'A must see.'}

@@ -1,0 +1,20 @@
+{'contradiction': 'Then', 'entailment': 'Yes', 'neutral': 'In this clip'}
+{'contradiction': 'Or', 'entailment': 'Yes', 'neutral': 'In this clip'}
+{'contradiction': 'Then', 'entailment': 'Yes', 'neutral': 'In this story'}
+{'contradiction': 'Then', 'entailment': 'Yes', 'neutral': 'In fact'}
+{'contradiction': 'Or', 'entailment': 'Yes', 'neutral': 'In this story'}
+{'contradiction': 'Or', 'entailment': 'Yes', 'neutral': 'In fact'}
+{'contradiction': 'Then', 'entailment': 'Yes', 'neutral': 'In this one'}
+{'contradiction': 'Or', 'entailment': 'Yes', 'neutral': 'In this one'}
+{'contradiction': 'Then', 'entailment': 'Yes', 'neutral': 'In this scene'}
+{'contradiction': 'Then', 'entailment': 'Yes', 'neutral': 'In the second'}
+{'contradiction': 'Or', 'entailment': 'Yes', 'neutral': 'In this scene'}
+{'contradiction': 'Then', 'entailment': 'Yes', 'neutral': 'In this shot'}
+{'contradiction': 'No', 'entailment': 'Yes', 'neutral': 'In this clip'}
+{'contradiction': 'Or', 'entailment': 'Yes', 'neutral': 'In the second'}
+{'contradiction': 'Then', 'entailment': 'Yes', 'neutral': 'In the middle of the night'}
+{'contradiction': 'Then', 'entailment': 'Yes', 'neutral': 'In the middle'}
+{'contradiction': 'Or', 'entailment': 'Yes', 'neutral': 'In this shot'}
+{'contradiction': 'Then', 'entailment': 'Yes', 'neutral': 'At the end of the day'}
+{'contradiction': 'Then', 'entailment': 'Yes', 'neutral': 'However'}
+{'contradiction': 'Then', 'entailment': 'Yes', 'neutral': 'In this video'}

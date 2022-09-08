@@ -1,0 +1,20 @@
+{0: '.', 1: 'I love it.'}
+{0: 'Thanks!', 1: 'I love it.'}
+{0: 'Thanks.', 1: 'I love it.'}
+{0: '.', 1: 'I love it!'}
+{0: 'Thanks!', 1: 'I love it!'}
+{0: 'Thanks.', 1: 'I love it!'}
+{0: 'Sorry.', 1: 'I love it.'}
+{0: '.', 1: 'Highly recommended.'}
+{0: '.', 1: 'I recommend it.'}
+{0: 'Sorry!', 1: 'I love it.'}
+{0: 'Good luck.', 1: 'I love it.'}
+{0: 'thanks.', 1: 'I love it.'}
+{0: '.', 1: 'I like it.'}
+{0: 'Why?', 1: 'I love it.'}
+{0: 'Enjoy!', 1: 'I love it.'}
+{0: 'lol.', 1: 'I love it.'}
+{0: '. Thanks.', 1: 'I love it.'}
+{0: 'thanks!', 1: 'I love it.'}
+{0: 'LOL.', 1: 'I love it.'}
+{0: 'Please help.', 1: 'I love it.'}

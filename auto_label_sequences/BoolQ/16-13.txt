@@ -1,0 +1,20 @@
+{False: 'Summary', True: 'Yes'}
+{False: 'About', True: 'Yes'}
+{False: ',', True: 'Yes'}
+{False: 'Answer: Yes', True: 'Yes'}
+{False: 'New York', True: 'Yes'}
+{False: 'Answer', True: 'Yes'}
+{False: 'Also', True: 'Yes'}
+{False: 'Answer: No', True: 'Yes'}
+{False: 'Answer:Yes', True: 'Yes'}
+{False: 'Hello', True: 'Yes'}
+{False: 'yes', True: 'Yes'}
+{False: 'About this article', True: 'Yes'}
+{False: 'About this page', True: 'Yes'}
+{False: 'Yes, it is', True: 'Yes'}
+{False: 'According to the official website', True: 'Yes'}
+{False: 'The answer is no', True: 'Yes'}
+{False: 'What is the difference between', True: 'Yes'}
+{False: 'A', True: 'Yes'}
+{False: 'What is the difference between the two', True: 'Yes'}
+{False: 'What is the difference between the two?', True: 'Yes'}

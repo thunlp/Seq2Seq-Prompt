@@ -1,0 +1,20 @@
+{0: 'Please help!', 1: 'Thanks!'}
+{0: 'Please help.', 1: 'Thanks!'}
+{0: 'Any suggestions?', 1: 'Thanks!'}
+{0: 'Not good.', 1: 'Thanks!'}
+{0: 'Is it?', 1: 'Thanks!'}
+{0: '. Good luck.', 1: 'Thanks!'}
+{0: 'I think.', 1: 'Thanks!'}
+{0: 'I am sorry.', 1: 'Thanks!'}
+{0: 'I am not.', 1: 'Thanks!'}
+{0: 'I need help.', 1: 'Thanks!'}
+{0: 'I hate it!', 1: 'Thanks!'}
+{0: 'This is annoying.', 1: 'Thanks!'}
+{0: 'I hate it.', 1: 'Thanks!'}
+{0: '. Good luck!', 1: 'Thanks!'}
+{0: 'Can you help?', 1: 'Thanks!'}
+{0: '. Any suggestions?', 1: 'Thanks!'}
+{0: 'It is not.', 1: 'Thanks!'}
+{0: 'I hate that.', 1: 'Thanks!'}
+{0: '. I think.', 1: 'Thanks!'}
+{0: 'I know.', 1: 'Thanks!'}

@@ -1,0 +1,20 @@
+{0: 'A', 1: 'The answer is'}
+{0: 'A', 1: 'Well'}
+{0: 'I', 1: 'The answer is'}
+{0: 'I', 1: 'Well'}
+{0: 'B', 1: 'The answer is'}
+{0: 'B', 1: 'Well'}
+{0: 'C', 1: 'The answer is'}
+{0: 'C', 1: 'Well'}
+{0: 'Here', 1: 'The answer is'}
+{0: 'Here', 1: 'Well'}
+{0: 'No', 1: 'The answer is'}
+{0: 'I.e.', 1: 'The answer is'}
+{0: 'E.g.', 1: 'The answer is'}
+{0: 'See also', 1: 'The answer is'}
+{0: 'No', 1: 'Well'}
+{0: 'I.e.', 1: 'Well'}
+{0: 'E.g.', 1: 'Well'}
+{0: 'A.', 1: 'The answer is'}
+{0: 'B.', 1: 'The answer is'}
+{0: 'See also', 1: 'Well'}

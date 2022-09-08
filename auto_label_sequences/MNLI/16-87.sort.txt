@@ -1,0 +1,20 @@
+{'contradiction': 'As far as I know', 'entailment': 'Again', 'neutral': 'In addition'}
+{'contradiction': 'Or', 'entailment': 'Again', 'neutral': 'Finally'}
+{'contradiction': 'This is not true', 'entailment': 'Again', 'neutral': 'In addition'}
+{'contradiction': 'In general', 'entailment': 'Again', 'neutral': 'Also'}
+{'contradiction': 'As far as I am concerned', 'entailment': 'Again', 'neutral': 'In addition'}
+{'contradiction': 'On the contrary', 'entailment': 'Again', 'neutral': 'Also'}
+{'contradiction': 'In general', 'entailment': 'Again', 'neutral': 'In addition'}
+{'contradiction': 'As far as I can tell', 'entailment': 'Again', 'neutral': 'In addition'}
+{'contradiction': 'On the contrary', 'entailment': 'Again', 'neutral': 'In addition'}
+{'contradiction': "It's not", 'entailment': 'Again', 'neutral': 'In addition'}
+{'contradiction': 'In general', 'entailment': 'Again', 'neutral': 'Finally'}
+{'contradiction': 'Or', 'entailment': 'Again', 'neutral': 'In addition'}
+{'contradiction': 'At this time', 'entailment': 'Again', 'neutral': 'In addition'}
+{'contradiction': 'Or', 'entailment': 'Again', 'neutral': 'Also'}
+{'contradiction': "I'm not sure", 'entailment': 'Again', 'neutral': 'In addition'}
+{'contradiction': "I'm sorry", 'entailment': 'Again', 'neutral': 'In addition'}
+{'contradiction': 'Is it true', 'entailment': 'Again', 'neutral': 'In addition'}
+{'contradiction': 'In my opinion', 'entailment': 'Again', 'neutral': 'In addition'}
+{'contradiction': 'For the record', 'entailment': 'Again', 'neutral': 'In addition'}
+{'contradiction': 'I think', 'entailment': 'Again', 'neutral': 'In addition'}

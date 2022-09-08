@@ -1,0 +1,20 @@
+{'not_entailment': 'In fact', 'entailment': 'Well'}
+{'not_entailment': 'In fact', 'entailment': 'At the end of the day'}
+{'not_entailment': 'In fact', 'entailment': 'At the end of the year'}
+{'not_entailment': 'In fact', 'entailment': 'In all'}
+{'not_entailment': 'In fact', 'entailment': 'In the United States'}
+{'not_entailment': 'In fact', 'entailment': 'After all'}
+{'not_entailment': 'In fact', 'entailment': 'In the beginning'}
+{'not_entailment': 'In fact', 'entailment': 'According to the article'}
+{'not_entailment': 'In fact', 'entailment': 'In the end'}
+{'not_entailment': 'In fact', 'entailment': 'In the long run'}
+{'not_entailment': 'In fact', 'entailment': 'For the first time'}
+{'not_entailment': 'In fact', 'entailment': 'In the same way'}
+{'not_entailment': 'In fact', 'entailment': 'In the first place'}
+{'not_entailment': 'In fact', 'entailment': 'As mentioned above'}
+{'not_entailment': 'In fact', 'entailment': 'In any case'}
+{'not_entailment': 'In fact', 'entailment': 'In the past'}
+{'not_entailment': 'In fact', 'entailment': 'In the early days'}
+{'not_entailment': 'In fact', 'entailment': 'In the last two years'}
+{'not_entailment': 'In fact', 'entailment': 'In the last few years'}
+{'not_entailment': 'In fact', 'entailment': 'In the last century'}

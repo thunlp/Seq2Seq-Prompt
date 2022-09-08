@@ -1,0 +1,20 @@
+{0: 'No', 1: 'Next'}
+{0: 'No', 1: 'In fact'}
+{0: 'No', 1: 'Finally'}
+{0: 'No', 1: 'Again'}
+{0: 'No', 1: 'After all'}
+{0: 'No', 1: 'Effect? Then'}
+{0: 'No', 1: 'Cause? Then'}
+{0: 'No', 1: 'At the end'}
+{0: 'No', 1: 'In addition'}
+{0: 'No', 1: 'At the same time'}
+{0: 'No', 1: 'In the end'}
+{0: 'No', 1: 'Effect? Yes'}
+{0: 'No', 1: 'Cause? Yes'}
+{0: 'No', 1: 'Or'}
+{0: 'No', 1: 'Then'}
+{0: 'No', 1: 'In other words'}
+{0: 'No', 1: 'And then'}
+{0: 'No', 1: 'Effect? No'}
+{0: 'No', 1: 'And'}
+{0: 'No', 1: 'Also'}

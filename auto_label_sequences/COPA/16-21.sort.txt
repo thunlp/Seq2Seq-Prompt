@@ -1,0 +1,20 @@
+{0: 'No', 1: 'After that'}
+{0: 'Cause? Yes', 1: 'Then'}
+{0: 'No', 1: 'Yes'}
+{0: 'Nope', 1: 'Then'}
+{0: 'No', 1: 'Then'}
+{0: 'Or', 1: 'Then'}
+{0: 'In addition', 1: 'Then'}
+{0: 'Cause', 1: 'Then'}
+{0: 'And', 1: 'Then'}
+{0: 'Cause? Well', 1: 'Then'}
+{0: 'No', 1: 'Again'}
+{0: 'Also', 1: 'After that'}
+{0: 'On the other hand', 1: 'Then'}
+{0: 'Also', 1: 'Then'}
+{0: 'By the way', 1: 'Then'}
+{0: 'Cause? No', 1: 'Then'}
+{0: 'The next day', 1: 'Then'}
+{0: 'At the same time', 1: 'Then'}
+{0: 'However', 1: 'Then'}
+{0: 'Later', 1: 'Then'}

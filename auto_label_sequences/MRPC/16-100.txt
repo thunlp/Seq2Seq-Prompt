@@ -1,0 +1,20 @@
+{'0': 'Also', '1': 'Well'}
+{'0': 'However', '1': 'Well'}
+{'0': 'Also', '1': 'Indeed'}
+{'0': 'However', '1': 'Indeed'}
+{'0': 'Also', '1': '.'}
+{'0': 'However', '1': '.'}
+{'0': 'Then', '1': 'Well'}
+{'0': 'Also', '1': '?'}
+{'0': 'Also', '1': 'That is'}
+{'0': 'Also', '1': 'According to the statement'}
+{'0': 'However', '1': '?'}
+{'0': 'However', '1': 'That is'}
+{'0': 'Also', '1': 'In other words'}
+{'0': 'Of course', '1': 'Well'}
+{'0': 'Also', '1': "That's right"}
+{'0': 'Also', '1': 'On the same day'}
+{'0': 'Also', '1': 'According to the official'}
+{'0': 'Also', '1': 'According to the source'}
+{'0': 'Also', '1': 'According to the news release'}
+{'0': 'Also', '1': 'According to the Washington Post'}

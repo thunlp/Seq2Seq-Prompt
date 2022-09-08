@@ -1,0 +1,20 @@
+{0: 'A', 1: 'Well'}
+{0: 'The answer is', 1: 'Well'}
+{0: 'No', 1: 'Well'}
+{0: 'B', 1: 'Well'}
+{0: 'One', 1: 'Well'}
+{0: 'E.g.', 1: 'Well'}
+{0: 'At the end', 1: 'Well'}
+{0: 'In the same way', 1: 'Well'}
+{0: 'At the end of the day', 1: 'Well'}
+{0: 'In the first instance', 1: 'Well'}
+{0: 'Answer: A', 1: 'Well'}
+{0: 'In the first part', 1: 'Well'}
+{0: 'Answer: The answer is', 1: 'Well'}
+{0: 'This is the answer', 1: 'Well'}
+{0: 'At the end of the year', 1: 'Well'}
+{0: 'At the beginning of the year', 1: 'Well'}
+{0: 'At the end of the month', 1: 'Well'}
+{0: 'In the first half of the year', 1: 'Well'}
+{0: 'At the end of the week', 1: 'Well'}
+{0: 'In the beginning of the year', 1: 'Well'}

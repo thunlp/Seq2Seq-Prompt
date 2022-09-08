@@ -1,0 +1,20 @@
+{'0': 'No', '1': 'Yes'}
+{'0': 'Then', '1': 'Yes'}
+{'0': 'On the other hand', '1': 'Yes'}
+{'0': 'Also', '1': 'Yes'}
+{'0': 'And', '1': 'Yes'}
+{'0': 'Or', '1': 'Yes'}
+{'0': 'Finally', '1': 'Yes'}
+{'0': 'However', '1': 'Yes'}
+{'0': 'Actually', '1': 'Yes'}
+{'0': 'But', '1': 'Yes'}
+{'0': 'At the same time', '1': 'Yes'}
+{'0': 'Oh', '1': 'Yes'}
+{'0': 'Next', '1': 'Yes'}
+{'0': 'Of course', '1': 'Yes'}
+{'0': 'Yeah', '1': 'Yes'}
+{'0': 'Hi', '1': 'Yes'}
+{'0': 'Nope', '1': 'Yes'}
+{'0': 'No, no', '1': 'Yes'}
+{'0': 'By the way', '1': 'Yes'}
+{'0': 'If so', '1': 'Yes'}

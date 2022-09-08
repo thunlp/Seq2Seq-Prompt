@@ -1,0 +1,20 @@
+{'not_entailment': 'For example', 'entailment': 'Yes'}
+{'not_entailment': 'In fact', 'entailment': 'Yes'}
+{'not_entailment': 'In all', 'entailment': 'Yes'}
+{'not_entailment': 'Also', 'entailment': 'Yes'}
+{'not_entailment': 'In the same way', 'entailment': 'Yes'}
+{'not_entailment': 'Today', 'entailment': 'Yes'}
+{'not_entailment': 'In addition', 'entailment': 'Yes'}
+{'not_entailment': 'However', 'entailment': 'Yes'}
+{'not_entailment': 'Meanwhile', 'entailment': 'Yes'}
+{'not_entailment': 'Furthermore', 'entailment': 'Yes'}
+{'not_entailment': 'On the other hand', 'entailment': 'Yes'}
+{'not_entailment': 'At the moment', 'entailment': 'Yes'}
+{'not_entailment': 'In the world', 'entailment': 'Yes'}
+{'not_entailment': 'At the same time', 'entailment': 'Yes'}
+{'not_entailment': 'In the meantime', 'entailment': 'Yes'}
+{'not_entailment': 'Now', 'entailment': 'Yes'}
+{'not_entailment': 'In the United States', 'entailment': 'Yes'}
+{'not_entailment': 'In other words', 'entailment': 'Yes'}
+{'not_entailment': 'According to the report', 'entailment': 'Yes'}
+{'not_entailment': '. In addition', 'entailment': 'Yes'}

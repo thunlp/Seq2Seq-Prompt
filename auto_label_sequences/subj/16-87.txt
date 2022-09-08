@@ -1,0 +1,20 @@
+{0: 'I like it.', 1: 'What do you think?'}
+{0: 'I loved it.', 1: 'What do you think?'}
+{0: 'I like it.', 1: 'The story continues.'}
+{0: 'I like it.', 1: 'What will happen next?'}
+{0: 'I love it.', 1: 'What do you think?'}
+{0: 'I loved it.', 1: 'The story continues.'}
+{0: 'I loved it.', 1: 'What will happen next?'}
+{0: 'I like it.', 1: 'What will happen?'}
+{0: 'I like it.', 1: 'Watch and enjoy!'}
+{0: 'I loved it.', 1: 'What will happen?'}
+{0: 'I like it.', 1: 'Watch the trailer here.'}
+{0: 'I like it.', 1: 'Watch the trailer below.'}
+{0: 'Check it out.', 1: 'What do you think?'}
+{0: 'I loved it.', 1: 'Watch and enjoy!'}
+{0: 'I liked it.', 1: 'What do you think?'}
+{0: 'I like it.', 1: 'Find out why.'}
+{0: 'I loved it.', 1: 'Watch the trailer here.'}
+{0: 'I loved it.', 1: 'Watch the trailer below.'}
+{0: 'I love it.', 1: 'The story continues.'}
+{0: 'I like it.', 1: 'Watch the full movie.'}

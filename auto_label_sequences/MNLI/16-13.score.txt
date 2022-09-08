@@ -1,0 +1,20 @@
+0.64583 {'contradiction': 'No, no', 'entailment': 'Yes', 'neutral': 'In fact'}
+0.62500 {'contradiction': 'Nope', 'entailment': 'Yes', 'neutral': 'In fact'}
+0.62500 {'contradiction': 'To be fair', 'entailment': 'Yes', 'neutral': 'In fact'}
+0.62500 {'contradiction': 'On the contrary', 'entailment': 'Yes', 'neutral': 'In fact'}
+0.60417 {'contradiction': 'If so', 'entailment': 'Again', 'neutral': 'In fact'}
+0.60417 {'contradiction': 'At the moment', 'entailment': 'Yes', 'neutral': 'In fact'}
+0.58333 {'contradiction': 'If not', 'entailment': 'Yes', 'neutral': 'In fact'}
+0.58333 {'contradiction': 'If not', 'entailment': 'Yes', 'neutral': 'In addition'}
+0.56250 {'contradiction': 'On the other hand', 'entailment': 'Yes', 'neutral': 'In fact'}
+0.54167 {'contradiction': 'If so', 'entailment': 'Yes', 'neutral': 'In fact'}
+0.54167 {'contradiction': 'Either way', 'entailment': 'Yes', 'neutral': 'In fact'}
+0.54167 {'contradiction': 'To be honest', 'entailment': 'Yes', 'neutral': 'In fact'}
+0.52083 {'contradiction': 'Unfortunately', 'entailment': 'Yes', 'neutral': 'In fact'}
+0.52083 {'contradiction': 'If so', 'entailment': 'Yes', 'neutral': 'In addition'}
+0.52083 {'contradiction': 'On the other side', 'entailment': 'Yes', 'neutral': 'In fact'}
+0.52083 {'contradiction': 'For the record', 'entailment': 'Yes', 'neutral': 'In fact'}
+0.50000 {'contradiction': 'For example', 'entailment': 'Yes', 'neutral': 'In fact'}
+0.50000 {'contradiction': 'I have to say', 'entailment': 'Yes', 'neutral': 'In fact'}
+0.50000 {'contradiction': 'Then, of course', 'entailment': 'Yes', 'neutral': 'In fact'}
+0.43750 {'contradiction': 'In my opinion', 'entailment': 'Yes', 'neutral': 'In fact'}

@@ -1,0 +1,20 @@
+{'not_entailment': 'However', 'entailment': 'Well'}
+{'not_entailment': 'In addition', 'entailment': 'Well'}
+{'not_entailment': 'However', 'entailment': 'Yes'}
+{'not_entailment': 'In addition', 'entailment': 'Yes'}
+{'not_entailment': 'However', 'entailment': 'In fact'}
+{'not_entailment': 'However', 'entailment': 'For example'}
+{'not_entailment': 'However', 'entailment': 'First'}
+{'not_entailment': 'In addition', 'entailment': 'In fact'}
+{'not_entailment': 'In addition', 'entailment': 'For example'}
+{'not_entailment': 'However', 'entailment': 'Actually'}
+{'not_entailment': 'However', 'entailment': 'In short'}
+{'not_entailment': 'In addition', 'entailment': 'First'}
+{'not_entailment': 'However', 'entailment': 'After all'}
+{'not_entailment': 'However', 'entailment': 'According to Wikipedia'}
+{'not_entailment': 'However', 'entailment': 'As mentioned'}
+{'not_entailment': 'However', 'entailment': 'As noted above'}
+{'not_entailment': 'However', 'entailment': 'As mentioned above'}
+{'not_entailment': 'However', 'entailment': 'As an example'}
+{'not_entailment': 'However', 'entailment': 'The answer is'}
+{'not_entailment': 'In addition', 'entailment': 'Actually'}

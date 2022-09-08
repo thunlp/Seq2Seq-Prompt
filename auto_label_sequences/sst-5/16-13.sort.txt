@@ -1,0 +1,20 @@
+{0: '.', 1: 'Not good.', 2: 'Thanks for reading.', 3: 'A must watch.', 4: 'Highly recommended.'}
+{0: '.', 1: 'Not good.', 2: 'Get it.', 3: 'I enjoyed it.', 4: 'Highly recommended.'}
+{0: '.', 1: 'Not good.', 2: 'Watch out!', 3: 'I recommend it.', 4: 'Highly recommended.'}
+{0: '.', 1: 'Not good.', 2: 'Beware.', 3: 'I enjoyed it.', 4: 'Highly recommended.'}
+{0: '.', 1: 'Not good.', 2: 'Beware!', 3: 'I enjoyed it.', 4: 'Highly recommended.'}
+{0: '.', 1: 'Not good.', 2: 'Watch out!', 3: 'I enjoyed it.', 4: 'Highly recommended.'}
+{0: '.', 1: 'Very disappointing.', 2: 'Beware!', 3: 'I enjoyed it.', 4: 'Highly recommended.'}
+{0: '.', 1: 'Not good.', 2: 'Thanks for reading.', 3: 'I recommend it.', 4: 'Highly recommended.'}
+{0: '.', 1: 'Not good.', 2: 'Beware!', 3: 'A must see!', 4: 'Highly recommended.'}
+{0: '.', 1: 'Not good.', 2: 'Get it!', 3: 'I recommend it.', 4: 'Highly recommended.'}
+{0: '.', 1: 'Not good.', 2: 'Beware!', 3: 'I liked it.', 4: 'Highly recommended.'}
+{0: '.', 1: 'Not good.', 2: 'Watch out!', 3: 'A must see!', 4: 'Highly recommended.'}
+{0: '.', 1: 'Not good.', 2: 'Beware!', 3: 'I recommend it.', 4: 'Highly recommended.'}
+{0: '.', 1: 'Not good.', 2: 'Get it!', 3: 'I enjoyed it.', 4: 'Highly recommended.'}
+{0: '.', 1: 'Not good.', 2: 'Thanks for reading.', 3: 'A must see!', 4: 'Highly recommended.'}
+{0: '.', 1: 'Not good.', 2: '. Read.', 3: 'I enjoyed it.', 4: 'Highly recommended.'}
+{0: '.', 1: 'Not good.', 2: 'Thanks for reading.', 3: 'I enjoyed it.', 4: 'Highly recommended.'}
+{0: '.', 1: 'Not good.', 2: 'Thanks for reading.', 3: 'I liked it.', 4: 'Highly recommended.'}
+{0: '.', 1: 'Not good.', 2: 'Beware.', 3: 'I recommend it.', 4: 'Highly recommended.'}
+{0: '.', 1: 'Very disappointing.', 2: 'Thanks for reading.', 3: 'I enjoyed it.', 4: 'Highly recommended.'}

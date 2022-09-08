@@ -1,0 +1,20 @@
+0.88542 {0: 'Good!', 1: 'What.', 2: 'What is?', 3: 'Who?', 4: 'USA.', 5: 'How many?'}
+0.88542 {0: 'Good!', 1: 'Discuss.', 2: 'What is?', 3: 'Who?', 4: 'USA.', 5: 'How many?'}
+0.88542 {0: 'Good!', 1: 'What.', 2: 'What does?', 3: 'Who?', 4: 'USA.', 5: 'How many?'}
+0.87500 {0: 'Listen!', 1: 'What.', 2: 'What is?', 3: 'Who?', 4: 'Good luck!', 5: 'How many?'}
+0.87500 {0: 'Listen!', 1: 'What.', 2: 'What is?', 3: 'Who?', 4: 'USA.', 5: 'How many?'}
+0.87500 {0: 'Good!', 1: 'What.', 2: 'What does?', 3: 'Who?', 4: 'Good luck!', 5: 'How many?'}
+0.86458 {0: 'Good!', 1: 'Comment.', 2: 'What is?', 3: 'Who?', 4: 'USA.', 5: 'How many?'}
+0.86458 {0: 'Good.', 1: 'Comment.', 2: 'What is?', 3: 'Who?', 4: 'USA.', 5: 'How many?'}
+0.86458 {0: 'Good!', 1: 'Comment.', 2: 'What is?', 3: 'Who?', 4: 'Please explain!', 5: 'How many?'}
+0.86458 {0: 'Good.', 1: 'Comment.', 2: 'What is?', 3: 'Who?', 4: 'Good luck!', 5: 'How many?'}
+0.85417 {0: 'Good.', 1: 'What.', 2: 'What is?', 3: 'Who?', 4: 'Good luck!', 5: 'How many?'}
+0.85417 {0: 'Good.', 1: 'What.', 2: 'What is?', 3: 'Who?', 4: 'USA.', 5: 'How many?'}
+0.85417 {0: 'Good!', 1: 'Comment.', 2: 'What is?', 3: 'Who?', 4: 'Good luck!', 5: 'How many?'}
+0.85417 {0: 'Good!', 1: 'What.', 2: 'What is?', 3: 'Who?', 4: 'Please explain!', 5: 'How many?'}
+0.85417 {0: 'Listen!', 1: 'Comment.', 2: 'What is?', 3: 'Who?', 4: 'Good luck!', 5: 'How many?'}
+0.84375 {0: 'Good!', 1: 'Discuss.', 2: 'What is?', 3: 'Who?', 4: 'Good luck!', 5: 'How many?'}
+0.84375 {0: 'Good.', 1: 'What.', 2: 'What is?', 3: 'Who?', 4: 'Please explain!', 5: 'How many?'}
+0.83333 {0: 'Good!', 1: 'What.', 2: 'What is?', 3: 'Who?', 4: 'Good luck!', 5: 'How many?'}
+0.83333 {0: 'Listen!', 1: 'What.', 2: 'What is?', 3: 'Who?', 4: 'Please explain!', 5: 'How many?'}
+0.81250 {0: 'Listen!', 1: 'Comment.', 2: 'What is?', 3: 'Who?', 4: 'USA.', 5: 'How many?'}

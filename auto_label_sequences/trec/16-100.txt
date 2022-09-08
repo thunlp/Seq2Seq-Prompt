@@ -1,0 +1,20 @@
+{0: 'Good question.', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'please?', 5: '10?'}
+{0: 'Really?', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'please?', 5: '10?'}
+{0: 'Read here.', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'please?', 5: '10?'}
+{0: 'Good question.', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'Question?', 5: '10?'}
+{0: 'Good question.', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'please?', 5: '1?'}
+{0: 'Really?', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'Question?', 5: '10?'}
+{0: 'Read here.', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'Question?', 5: '10?'}
+{0: 'Really?', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'please?', 5: '1?'}
+{0: 'Read here.', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'please?', 5: '1?'}
+{0: 'Good question.', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'Question?', 5: '1?'}
+{0: 'Really?', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'Question?', 5: '1?'}
+{0: 'Read here.', 1: 'What is?', 2: 'English.', 3: 'Find out.', 4: 'Question?', 5: '1?'}
+{0: 'Good question.', 1: 'What is?', 2: 'Search.', 3: 'Find out.', 4: 'please?', 5: '10?'}
+{0: 'Really?', 1: 'What is?', 2: 'Search.', 3: 'Find out.', 4: 'please?', 5: '10?'}
+{0: 'Read here.', 1: 'What is?', 2: 'Search.', 3: 'Find out.', 4: 'please?', 5: '10?'}
+{0: 'Good question.', 1: 'What is?', 2: 'Search.', 3: 'Find out.', 4: 'Question?', 5: '10?'}
+{0: 'Good question.', 1: 'What is?', 2: 'Search.', 3: 'Find out.', 4: 'please?', 5: '1?'}
+{0: 'Really?', 1: 'What is?', 2: 'Search.', 3: 'Find out.', 4: 'Question?', 5: '10?'}
+{0: 'Read here.', 1: 'What is?', 2: 'Search.', 3: 'Find out.', 4: 'Question?', 5: '10?'}
+{0: 'Really?', 1: 'What is?', 2: 'Search.', 3: 'Find out.', 4: 'please?', 5: '1?'}

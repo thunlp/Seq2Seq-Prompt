@@ -1,0 +1,20 @@
+0.84375 {'not_entailment': 'Also', 'entailment': 'In addition'}
+0.81250 {'not_entailment': 'Also', 'entailment': 'In the past'}
+0.78125 {'not_entailment': 'In fact', 'entailment': 'Yes'}
+0.78125 {'not_entailment': 'However', 'entailment': 'In the past'}
+0.78125 {'not_entailment': 'Also', 'entailment': 'In addition to the above'}
+0.78125 {'not_entailment': 'Also', 'entailment': 'In addition to this'}
+0.78125 {'not_entailment': 'Also', 'entailment': 'In the same way'}
+0.75000 {'not_entailment': 'In fact', 'entailment': 'In the past'}
+0.75000 {'not_entailment': 'Also', 'entailment': 'According to Wikipedia'}
+0.71875 {'not_entailment': 'In fact', 'entailment': 'Thus'}
+0.71875 {'not_entailment': 'Also', 'entailment': 'As mentioned above'}
+0.68750 {'not_entailment': 'Also', 'entailment': 'No'}
+0.68750 {'not_entailment': 'In fact', 'entailment': 'In addition'}
+0.68750 {'not_entailment': 'Also', 'entailment': 'In this case'}
+0.65625 {'not_entailment': 'Also', 'entailment': 'So'}
+0.65625 {'not_entailment': 'Also', 'entailment': 'As mentioned'}
+0.62500 {'not_entailment': 'However', 'entailment': 'Yes'}
+0.59375 {'not_entailment': 'Also', 'entailment': 'Yes'}
+0.59375 {'not_entailment': 'Also', 'entailment': 'Thus'}
+0.59375 {'not_entailment': 'Also', 'entailment': 'Well'}

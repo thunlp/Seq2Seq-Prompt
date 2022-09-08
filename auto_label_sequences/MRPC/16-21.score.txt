@@ -1,0 +1,20 @@
+0.76923 {'0': 'At the time', '1': 'Yes'}
+0.76190 {'0': 's', '1': 'Yes'}
+0.75000 {'0': 'For the record', '1': 'Yes'}
+0.75000 {'0': 'At the end of the day', '1': 'Yes'}
+0.75000 {'0': 'On the other hand', '1': 'Yes'}
+0.75000 {'0': 'In the same way', '1': 'Yes'}
+0.74419 {'0': 'Finally', '1': 'Yes'}
+0.74286 {'0': 'Meanwhile', '1': 'Yes'}
+0.73171 {'0': 'In the end', '1': 'Yes'}
+0.72727 {'0': 'Also', '1': 'Yes'}
+0.72727 {'0': '. Then', '1': 'Yes'}
+0.72727 {'0': 'At the same time', '1': 'Yes'}
+0.71429 {'0': 'In the past', '1': 'Yes'}
+0.71111 {'0': 'After all', '1': 'Yes'}
+0.71111 {'0': '. In addition', '1': 'Yes'}
+0.70270 {'0': 'In the meantime', '1': 'Yes'}
+0.70270 {'0': '. In the meantime', '1': 'Yes'}
+0.70000 {'0': 'For the most part', '1': 'Yes'}
+0.70000 {'0': 'For the second time', '1': 'Yes'}
+0.69565 {'0': 'On the other side', '1': 'Yes'}

@@ -1,0 +1,20 @@
+{'not_entailment': 'In fact', 'entailment': 'Yes'}
+{'not_entailment': 'No', 'entailment': 'Yes'}
+{'not_entailment': 'However', 'entailment': 'Yes'}
+{'not_entailment': 'On the other hand', 'entailment': 'Yes'}
+{'not_entailment': 'Finally', 'entailment': 'Yes'}
+{'not_entailment': 'On the contrary', 'entailment': 'Yes'}
+{'not_entailment': 'Then', 'entailment': 'Yes'}
+{'not_entailment': 'Therefore', 'entailment': 'Yes'}
+{'not_entailment': 'At the same time', 'entailment': 'Yes'}
+{'not_entailment': 'In my opinion', 'entailment': 'Yes'}
+{'not_entailment': 'In short', 'entailment': 'Yes'}
+{'not_entailment': 'For example', 'entailment': 'Yes'}
+{'not_entailment': 'What is more', 'entailment': 'Yes'}
+{'not_entailment': 'In the end', 'entailment': 'Yes'}
+{'not_entailment': 'In this case', 'entailment': 'Yes'}
+{'not_entailment': 'In other words', 'entailment': 'Yes'}
+{'not_entailment': 'In the same way', 'entailment': 'Yes'}
+{'not_entailment': 'In addition', 'entailment': 'Yes'}
+{'not_entailment': 'By the way', 'entailment': 'Yes'}
+{'not_entailment': 'Indeed', 'entailment': 'Yes'}

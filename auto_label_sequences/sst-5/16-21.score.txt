@@ -1,0 +1,20 @@
+0.50000 {0: 'Awful.', 1: 'Good luck with that.', 2: '. Enjoy!', 3: 'Highly recommended.', 4: 'I loved it.'}
+0.48750 {0: 'I hated it.', 1: 'But it works.', 2: '. Enjoy!', 3: 'Highly recommended.', 4: 'I loved it.'}
+0.47500 {0: "Don't waste time.", 1: 'But it works.', 2: '. Enjoy!', 3: 'Highly recommended.', 4: 'I loved it.'}
+0.46250 {0: 'Awful.', 1: "It's not.", 2: '. Enjoy!', 3: 'Highly recommended.', 4: 'A must-see.'}
+0.46250 {0: "Don't bother.", 1: 'But it works.', 2: '. Enjoy!', 3: 'Highly recommended.', 4: 'I loved it.'}
+0.45000 {0: 'Awful.', 1: "It's not.", 2: '. Enjoy!', 3: 'Highly recommended.', 4: 'I loved it.'}
+0.43750 {0: 'Awful.', 1: 'But it works.', 2: '. Enjoy!', 3: 'Highly recommended.', 4: 'I loved it.'}
+0.43750 {0: 'Very disappointing.', 1: 'But it works.', 2: '. Enjoy!', 3: 'Highly recommended.', 4: 'I loved it.'}
+0.43750 {0: "Don't bother.", 1: 'But it works.', 2: '. Enjoy!', 3: 'Highly recommended.', 4: 'A must-see.'}
+0.42500 {0: 'Awful.', 1: 'But it works.', 2: '. Enjoy!', 3: 'Highly recommended.', 4: 'A must-see.'}
+0.42500 {0: 'I hate this movie.', 1: 'But it works.', 2: '. Enjoy!', 3: 'Highly recommended.', 4: 'I loved it.'}
+0.42500 {0: 'Very disappointing.', 1: 'But it works.', 2: '. Enjoy!', 3: 'Highly recommended.', 4: 'A must-see.'}
+0.41250 {0: 'I hate it!', 1: 'But it works.', 2: '. Enjoy!', 3: 'Highly recommended.', 4: 'I loved it.'}
+0.41250 {0: 'I hate this movie.', 1: 'But it works.', 2: '. Enjoy!', 3: 'Highly recommended.', 4: 'A must-see.'}
+0.41250 {0: 'I hate it.', 1: 'But it works.', 2: '. Enjoy!', 3: 'Highly recommended.', 4: 'A must-see.'}
+0.40000 {0: 'I hate this.', 1: 'But it works.', 2: '. Enjoy!', 3: 'Highly recommended.', 4: 'I loved it.'}
+0.38750 {0: 'I hated it.', 1: 'But it works.', 2: '. Enjoy!', 3: 'Highly recommended.', 4: 'A must-see.'}
+0.37500 {0: 'Awful!', 1: 'But it works.', 2: '. Enjoy!', 3: 'Highly recommended.', 4: 'A must-see.'}
+0.37500 {0: 'I hate it.', 1: 'But it works.', 2: '. Enjoy!', 3: 'Highly recommended.', 4: 'I loved it.'}
+0.33750 {0: 'Awful!', 1: 'But it works.', 2: '. Enjoy!', 3: 'Highly recommended.', 4: 'I loved it.'}

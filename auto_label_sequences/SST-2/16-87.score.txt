@@ -1,0 +1,20 @@
+0.96875 {'0': 'Good luck!', '1': 'Highly recommended.'}
+0.96875 {'0': 'I think.', '1': 'Highly recommended.'}
+0.96875 {'0': "Don't.", '1': 'Highly recommended.'}
+0.96875 {'0': 'Sigh.', '1': 'Highly recommended.'}
+0.96875 {'0': 'I hope.', '1': 'Highly recommended.'}
+0.96875 {'0': 'I agree.', '1': 'Highly recommended.'}
+0.96875 {'0': 'Not recommended.', '1': 'Highly recommended.'}
+0.96875 {'0': 'Not good.', '1': 'Highly recommended.'}
+0.96875 {'0': 'Watch it.', '1': 'Highly recommended.'}
+0.96875 {'0': 'Beware.', '1': 'Highly recommended.'}
+0.96875 {'0': 'Go figure.', '1': 'Highly recommended.'}
+0.96875 {'0': 'The end.', '1': 'Highly recommended.'}
+0.96875 {'0': 'Is it?', '1': 'Highly recommended.'}
+0.96875 {'0': 'I like it.', '1': 'Highly recommended.'}
+0.96875 {'0': 'Go see it.', '1': 'Highly recommended.'}
+0.93750 {'0': 'Good luck.', '1': 'Highly recommended.'}
+0.93750 {'0': 'Beware!', '1': 'Highly recommended.'}
+0.93750 {'0': 'So what?', '1': 'Highly recommended.'}
+0.93750 {'0': 'Do you agree?', '1': 'Highly recommended.'}
+0.93750 {'0': 'It is.', '1': 'Highly recommended.'}

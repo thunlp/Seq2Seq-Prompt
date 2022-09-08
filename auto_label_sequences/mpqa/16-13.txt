@@ -1,0 +1,20 @@
+{0: 'negative', 1: 'positive'}
+{0: 'this', 1: 'positive'}
+{0: 'mixed', 1: 'positive'}
+{0: 'that', 1: 'positive'}
+{0: 'pretty good', 1: 'positive'}
+{0: 'bad', 1: 'positive'}
+{0: 'wrong', 1: 'positive'}
+{0: 'poor', 1: 'positive'}
+{0: 'not good', 1: 'positive'}
+{0: 'correct', 1: 'positive'}
+{0: 'neutral', 1: 'positive'}
+{0: 'low', 1: 'positive'}
+{0: 'fair', 1: 'positive'}
+{0: 'accurate', 1: 'positive'}
+{0: 'the same', 1: 'positive'}
+{0: 'mostly positive', 1: 'positive'}
+{0: 'not great', 1: 'positive'}
+{0: 'right', 1: 'positive'}
+{0: 'below', 1: 'positive'}
+{0: 'pretty positive', 1: 'positive'}

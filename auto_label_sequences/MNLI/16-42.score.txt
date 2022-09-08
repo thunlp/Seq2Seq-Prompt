@@ -1,0 +1,20 @@
+0.68750 {'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'Either way'}
+0.66667 {'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'To be fair'}
+0.64583 {'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'As you can see'}
+0.64583 {'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'At the very least'}
+0.62500 {'contradiction': 'But', 'entailment': 'I mean', 'neutral': 'In addition'}
+0.62500 {'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'At the moment'}
+0.62500 {'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'At the end of the day'}
+0.62500 {'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'In the same way'}
+0.60417 {'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'For example'}
+0.60417 {'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'In my opinion'}
+0.60417 {'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'After all'}
+0.60417 {'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'If so'}
+0.60417 {'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'What is more'}
+0.58333 {'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'In this case'}
+0.58333 {'contradiction': 'But', 'entailment': 'I mean', 'neutral': 'In my opinion'}
+0.58333 {'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'To be sure'}
+0.56250 {'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'Indeed'}
+0.56250 {'contradiction': 'But', 'entailment': 'I mean', 'neutral': 'For example'}
+0.56250 {'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'In the past'}
+0.47917 {'contradiction': 'However', 'entailment': 'I mean', 'neutral': 'In addition'}

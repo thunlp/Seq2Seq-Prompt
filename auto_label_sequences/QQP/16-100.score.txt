@@ -1,0 +1,20 @@
+0.76923 {'0': 'Also', '1': 'In the long run'}
+0.76923 {'0': 'Also', '1': 'At the end'}
+0.76471 {'0': 'Also', '1': 'In your opinion'}
+0.76471 {'0': 'Also', '1': 'In the end'}
+0.76471 {'0': 'Also', '1': 'In this case'}
+0.75676 {'0': 'Also', '1': 'In other words'}
+0.75676 {'0': 'Also', '1': 'So'}
+0.75676 {'0': 'Also', '1': 'In short'}
+0.75676 {'0': 'Also', '1': 'Well'}
+0.75676 {'0': 'Also', '1': 'In the meantime'}
+0.75676 {'0': 'Also', '1': 'So, in short'}
+0.75000 {'0': 'Also', '1': 'The question is'}
+0.75000 {'0': 'Also', '1': 'What do you think'}
+0.74286 {'0': 'Also', '1': 'After all'}
+0.74286 {'0': 'Also', '1': 'What do you mean'}
+0.73684 {'0': 'Also', '1': 'Yes'}
+0.73684 {'0': 'Also', '1': 'At the end of the day'}
+0.73171 {'0': 'Also', '1': 'In your view'}
+0.72727 {'0': 'Also', '1': 'If you ask me'}
+0.70270 {'0': 'Also', '1': 'How do you think'}

@@ -1,0 +1,20 @@
+{'not_entailment': 'According to the report', 'entailment': 'Yes'}
+{'not_entailment': 'Here', 'entailment': 'Yes'}
+{'not_entailment': 'On this occasion', 'entailment': 'Yes'}
+{'not_entailment': 'In the case', 'entailment': 'Yes'}
+{'not_entailment': 'At the same time', 'entailment': 'Yes'}
+{'not_entailment': 'At the time', 'entailment': 'Yes'}
+{'not_entailment': 'In one case', 'entailment': 'Yes'}
+{'not_entailment': 'In the video', 'entailment': 'Yes'}
+{'not_entailment': 'In this example', 'entailment': 'Yes'}
+{'not_entailment': 'In the example', 'entailment': 'Yes'}
+{'not_entailment': 'So', 'entailment': 'Yes'}
+{'not_entailment': 'At this point', 'entailment': 'Yes'}
+{'not_entailment': 'In the following example', 'entailment': 'Yes'}
+{'not_entailment': 'In the story', 'entailment': 'Yes'}
+{'not_entailment': 'In this instance', 'entailment': 'Yes'}
+{'not_entailment': 'Next', 'entailment': 'Yes'}
+{'not_entailment': 'According to the article', 'entailment': 'Yes'}
+{'not_entailment': 'For example', 'entailment': 'Yes'}
+{'not_entailment': 'In this case', 'entailment': 'Yes'}
+{'not_entailment': 'Instead', 'entailment': 'Yes'}

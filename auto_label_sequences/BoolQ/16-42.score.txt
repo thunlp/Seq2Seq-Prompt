@@ -1,0 +1,20 @@
+0.68750 {False: 'No', True: 'And'}
+0.68750 {False: 'No', True: 'So'}
+0.65625 {False: 'Yes', True: '-- Yes'}
+0.65625 {False: 'No', True: 'In this case'}
+0.65625 {False: 'No', True: 'Answer: Yes'}
+0.62500 {False: 'No', True: 'For example'}
+0.62500 {False: 'Yes', True: 'For example'}
+0.62500 {False: 'No', True: 'About'}
+0.62500 {False: 'No', True: 'About this page'}
+0.62500 {False: 'No', True: 'If so'}
+0.59375 {False: 'No', True: 'The answer is yes'}
+0.56250 {False: 'No', True: '-- Yes'}
+0.56250 {False: 'Yes', True: 'Answer: Yes'}
+0.56250 {False: 'Yes', True: 'Summary'}
+0.56250 {False: 'No', True: 'U.S.'}
+0.56250 {False: 'No', True: 'If not'}
+0.56250 {False: 'No', True: 'Summary'}
+0.56250 {False: 'Yes', True: 'About'}
+0.53125 {False: 'Yes', True: 'If so'}
+0.50000 {False: 'Yes', True: 'U.S.'}

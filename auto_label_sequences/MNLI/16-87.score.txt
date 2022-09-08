@@ -1,0 +1,20 @@
+0.56250 {'contradiction': 'As far as I know', 'entailment': 'Again', 'neutral': 'In addition'}
+0.54167 {'contradiction': 'Or', 'entailment': 'Again', 'neutral': 'Finally'}
+0.52083 {'contradiction': 'This is not true', 'entailment': 'Again', 'neutral': 'In addition'}
+0.50000 {'contradiction': 'In general', 'entailment': 'Again', 'neutral': 'Also'}
+0.50000 {'contradiction': 'As far as I am concerned', 'entailment': 'Again', 'neutral': 'In addition'}
+0.50000 {'contradiction': 'On the contrary', 'entailment': 'Again', 'neutral': 'Also'}
+0.47917 {'contradiction': 'In general', 'entailment': 'Again', 'neutral': 'In addition'}
+0.47917 {'contradiction': 'As far as I can tell', 'entailment': 'Again', 'neutral': 'In addition'}
+0.45833 {'contradiction': 'On the contrary', 'entailment': 'Again', 'neutral': 'In addition'}
+0.45833 {'contradiction': "It's not", 'entailment': 'Again', 'neutral': 'In addition'}
+0.45833 {'contradiction': 'In general', 'entailment': 'Again', 'neutral': 'Finally'}
+0.43750 {'contradiction': 'Or', 'entailment': 'Again', 'neutral': 'In addition'}
+0.43750 {'contradiction': 'At this time', 'entailment': 'Again', 'neutral': 'In addition'}
+0.43750 {'contradiction': 'Or', 'entailment': 'Again', 'neutral': 'Also'}
+0.43750 {'contradiction': "I'm not sure", 'entailment': 'Again', 'neutral': 'In addition'}
+0.41667 {'contradiction': "I'm sorry", 'entailment': 'Again', 'neutral': 'In addition'}
+0.41667 {'contradiction': 'Is it true', 'entailment': 'Again', 'neutral': 'In addition'}
+0.39583 {'contradiction': 'In my opinion', 'entailment': 'Again', 'neutral': 'In addition'}
+0.37500 {'contradiction': 'For the record', 'entailment': 'Again', 'neutral': 'In addition'}
+0.35417 {'contradiction': 'I think', 'entailment': 'Again', 'neutral': 'In addition'}

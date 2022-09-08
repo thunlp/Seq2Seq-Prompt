@@ -1,0 +1,20 @@
+0.93750 {'0': 'Good luck!', '1': 'Highly recommended.'}
+0.93750 {'0': 'Thanks for reading.', '1': 'Highly recommended.'}
+0.90625 {'0': 'Oh well.', '1': 'Highly recommended.'}
+0.90625 {'0': 'I think.', '1': 'Highly recommended.'}
+0.90625 {'0': 'Sigh.', '1': 'Highly recommended.'}
+0.90625 {'0': 'I hope.', '1': 'Highly recommended.'}
+0.90625 {'0': 'Is it?', '1': 'Highly recommended.'}
+0.90625 {'0': '. I think.', '1': 'Highly recommended.'}
+0.90625 {'0': 'Do you know?', '1': 'Highly recommended.'}
+0.90625 {'0': '. Watch it.', '1': 'Highly recommended.'}
+0.90625 {'0': 'Thanks for listening.', '1': 'Highly recommended.'}
+0.90625 {'0': '. I love it.', '1': 'Highly recommended.'}
+0.87500 {'0': '. Sigh.', '1': 'Highly recommended.'}
+0.87500 {'0': '. Good luck.', '1': 'Highly recommended.'}
+0.87500 {'0': '. Enjoy.', '1': 'Highly recommended.'}
+0.84375 {'0': 'I know.', '1': 'Highly recommended.'}
+0.84375 {'0': '. Good luck!', '1': 'Highly recommended.'}
+0.84375 {'0': '. I know.', '1': 'Highly recommended.'}
+0.84375 {'0': 'Good luck.', '1': 'Highly recommended.'}
+0.81250 {'0': 'You know what?', '1': 'Highly recommended.'}

@@ -1,0 +1,20 @@
+{'not_entailment': 'After all', 'entailment': 'Yes'}
+{'not_entailment': 'Meanwhile', 'entailment': 'Yes'}
+{'not_entailment': 'In the meantime', 'entailment': 'Yes'}
+{'not_entailment': 'In the end', 'entailment': 'Yes'}
+{'not_entailment': 'Finally', 'entailment': 'Yes'}
+{'not_entailment': 'At the same time', 'entailment': 'Yes'}
+{'not_entailment': 'In addition', 'entailment': 'Yes'}
+{'not_entailment': 'However', 'entailment': 'Yes'}
+{'not_entailment': 'In short', 'entailment': 'Yes'}
+{'not_entailment': 'And', 'entailment': 'Yes'}
+{'not_entailment': 'For the first time', 'entailment': 'Yes'}
+{'not_entailment': 'In the past year', 'entailment': 'Yes'}
+{'not_entailment': 'Now', 'entailment': 'Yes'}
+{'not_entailment': 'First', 'entailment': 'Yes'}
+{'not_entailment': 'Then', 'entailment': 'Yes'}
+{'not_entailment': 'Today', 'entailment': 'Yes'}
+{'not_entailment': 'On the other hand', 'entailment': 'Yes'}
+{'not_entailment': 'This week', 'entailment': 'Yes'}
+{'not_entailment': 'By the way', 'entailment': 'Yes'}
+{'not_entailment': 'This year', 'entailment': 'Yes'}

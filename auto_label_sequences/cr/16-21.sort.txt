@@ -1,0 +1,20 @@
+{0: '. lol.', 1: 'Highly recommended.'}
+{0: 'Please help.', 1: 'Highly recommended.'}
+{0: 'Any suggestions?', 1: 'Highly recommended.'}
+{0: '. LOL!', 1: 'Highly recommended.'}
+{0: 'I hope.', 1: 'Highly recommended.'}
+{0: 'Sigh.', 1: 'Highly recommended.'}
+{0: '. LOL.', 1: 'Highly recommended.'}
+{0: '. Good luck!', 1: 'Highly recommended.'}
+{0: '. Good luck.', 1: 'Highly recommended.'}
+{0: 'Sorry.', 1: 'Highly recommended.'}
+{0: 'Good luck!', 1: 'Highly recommended.'}
+{0: 'Good luck.', 1: 'Highly recommended.'}
+{0: 'Please help!', 1: 'Highly recommended.'}
+{0: '. Thanks.', 1: 'Highly recommended.'}
+{0: 'It is.', 1: 'Highly recommended.'}
+{0: 'Is it?', 1: 'Highly recommended.'}
+{0: 'Why?', 1: 'Highly recommended.'}
+{0: '.no.', 1: 'Highly recommended.'}
+{0: 'I think.', 1: 'Highly recommended.'}
+{0: 'I hate it.', 1: 'Highly recommended.'}

@@ -1,0 +1,20 @@
+{False: 'No', True: ','}
+{False: 'No', True: 'Home'}
+{False: 'No', True: 'If yes'}
+{False: 'No', True: '.'}
+{False: 'No', True: 'New York'}
+{False: 'No', True: 'U.S.'}
+{False: 'No', True: 'According to Wikipedia'}
+{False: 'No', True: 'If so'}
+{False: 'No', True: 'Summary'}
+{False: 'No', True: 'Answer:Yes'}
+{False: 'No', True: 'About this page'}
+{False: 'No', True: 'Hi'}
+{False: 'No', True: 'New York, NY'}
+{False: 'No', True: 'New York, New York'}
+{False: 'No', True: 'What is it?'}
+{False: 'No', True: 'U.S.A.'}
+{False: 'No', True: 'U.S. Department of State'}
+{False: 'No', True: 'U.S. Department of the Interior'}
+{False: 'No', True: 'What is the best way to do this?'}
+{False: 'No', True: 'What is the best way to find out?'}

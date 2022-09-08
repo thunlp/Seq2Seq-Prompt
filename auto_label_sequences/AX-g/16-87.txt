@@ -1,0 +1,20 @@
+{'not_entailment': 'Yes', 'entailment': 'In this case'}
+{'not_entailment': 'Yes', 'entailment': 'Next'}
+{'not_entailment': 'Yes', 'entailment': 'Finally'}
+{'not_entailment': 'Yes', 'entailment': 'However'}
+{'not_entailment': 'Yes', 'entailment': 'First'}
+{'not_entailment': 'Yes', 'entailment': 'Here'}
+{'not_entailment': 'Yes', 'entailment': 'At this point'}
+{'not_entailment': 'Yes', 'entailment': 'In the following case'}
+{'not_entailment': 'Yes', 'entailment': 'In addition'}
+{'not_entailment': 'Yes', 'entailment': 'So'}
+{'not_entailment': 'Yes', 'entailment': 'Then'}
+{'not_entailment': 'Yes', 'entailment': 'As you can see'}
+{'not_entailment': 'Yes', 'entailment': 'At the same time'}
+{'not_entailment': 'Yes', 'entailment': 'Therefore'}
+{'not_entailment': 'Yes', 'entailment': 'In the case'}
+{'not_entailment': 'Yes', 'entailment': 'According to the report'}
+{'not_entailment': 'Yes', 'entailment': 'According to the article'}
+{'not_entailment': 'Yes', 'entailment': 'In the following example'}
+{'not_entailment': 'Yes', 'entailment': 'In the second case'}
+{'not_entailment': 'Yes', 'entailment': 'In the first case'}

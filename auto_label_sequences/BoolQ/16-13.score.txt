@@ -1,0 +1,20 @@
+0.65625 {False: 'A', True: 'Yes'}
+0.62500 {False: 'About this article', True: 'Yes'}
+0.62500 {False: 'About', True: 'Yes'}
+0.62500 {False: ',', True: 'Yes'}
+0.59375 {False: 'The answer is no', True: 'Yes'}
+0.59375 {False: 'According to the official website', True: 'Yes'}
+0.59375 {False: 'Answer: No', True: 'Yes'}
+0.59375 {False: 'What is the difference between the two?', True: 'Yes'}
+0.59375 {False: 'Hello', True: 'Yes'}
+0.59375 {False: 'Answer', True: 'Yes'}
+0.59375 {False: 'What is the difference between', True: 'Yes'}
+0.59375 {False: 'Summary', True: 'Yes'}
+0.59375 {False: 'Also', True: 'Yes'}
+0.56250 {False: 'Yes, it is', True: 'Yes'}
+0.56250 {False: 'About this page', True: 'Yes'}
+0.56250 {False: 'Answer: Yes', True: 'Yes'}
+0.56250 {False: 'Answer:Yes', True: 'Yes'}
+0.56250 {False: 'New York', True: 'Yes'}
+0.53125 {False: 'What is the difference between the two', True: 'Yes'}
+0.50000 {False: 'yes', True: 'Yes'}

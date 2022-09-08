@@ -1,0 +1,20 @@
+{'not_entailment': 'Yes', 'entailment': 'Finally'}
+{'not_entailment': 'Yes', 'entailment': 'Here'}
+{'not_entailment': 'Yes', 'entailment': 'At the end'}
+{'not_entailment': 'Yes', 'entailment': 'However'}
+{'not_entailment': 'Yes', 'entailment': 'In this scenario'}
+{'not_entailment': 'Yes', 'entailment': 'In one case'}
+{'not_entailment': 'Yes', 'entailment': 'Instead'}
+{'not_entailment': 'Yes', 'entailment': 'Then'}
+{'not_entailment': 'Yes', 'entailment': 'In this example'}
+{'not_entailment': 'Yes', 'entailment': 'On the other hand'}
+{'not_entailment': 'The next day', 'entailment': 'Finally'}
+{'not_entailment': 'Yes', 'entailment': 'In the end'}
+{'not_entailment': 'Yes', 'entailment': 'In this instance'}
+{'not_entailment': 'Yes', 'entailment': 'In this story'}
+{'not_entailment': 'Yes', 'entailment': 'Also'}
+{'not_entailment': 'Yes', 'entailment': 'At the end of the interview'}
+{'not_entailment': 'If so', 'entailment': 'Finally'}
+{'not_entailment': 'Yes', 'entailment': 'At the end of the conversation'}
+{'not_entailment': 'Yes', 'entailment': 'Next'}
+{'not_entailment': 'Yes', 'entailment': 'In the case'}

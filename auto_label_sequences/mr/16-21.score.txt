@@ -1,0 +1,20 @@
+0.96875 {0: 'Enjoy!', 1: 'I loved it.'}
+0.93750 {0: 'Enjoy!', 1: 'I love it!'}
+0.93750 {0: 'Highly recommended.', 1: 'I love it.'}
+0.90625 {0: 'Enjoy!', 1: 'A must see.'}
+0.90625 {0: 'Enjoy.', 1: 'I loved it.'}
+0.90625 {0: 'Enjoy!', 1: 'I enjoyed it.'}
+0.90625 {0: 'Enjoy!', 1: 'well done!'}
+0.90625 {0: 'Enjoy!', 1: 'A must watch.'}
+0.87500 {0: 'Enjoy!', 1: 'I recommend it.'}
+0.84375 {0: 'Enjoy.', 1: 'I love it.'}
+0.84375 {0: 'Enjoy!', 1: 'Check it out!'}
+0.81250 {0: 'Enjoy!', 1: 'well done.'}
+0.78125 {0: 'Enjoy!', 1: 'I loved it!'}
+0.78125 {0: 'Enjoy!', 1: 'Do you agree?'}
+0.75000 {0: 'Enjoy!', 1: 'Go see it!'}
+0.75000 {0: 'Enjoy!', 1: 'Go see it.'}
+0.65625 {0: 'Enjoy!', 1: 'I love it.'}
+0.65625 {0: 'Enjoy!', 1: 'All the best.'}
+0.62500 {0: 'Enjoy!', 1: 'A must see!'}
+0.56250 {0: 'Highly recommended.', 1: 'I loved it.'}

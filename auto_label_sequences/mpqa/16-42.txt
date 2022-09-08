@@ -1,0 +1,20 @@
+{0: 'negative', 1: 'good'}
+{0: 'mixed', 1: 'good'}
+{0: 'this', 1: 'good'}
+{0: 'that', 1: 'good'}
+{0: 'pretty good', 1: 'good'}
+{0: 'not good', 1: 'good'}
+{0: 'quite positive', 1: 'good'}
+{0: 'the following', 1: 'good'}
+{0: 'poor', 1: 'good'}
+{0: 'bad', 1: 'good'}
+{0: 'very positive', 1: 'good'}
+{0: 'below', 1: 'good'}
+{0: 'pretty positive', 1: 'good'}
+{0: 'neutral', 1: 'good'}
+{0: 'unchanged', 1: 'good'}
+{0: 'fair', 1: 'good'}
+{0: 'not great', 1: 'good'}
+{0: 'the same', 1: 'good'}
+{0: 'very negative', 1: 'good'}
+{0: 'very mixed', 1: 'good'}

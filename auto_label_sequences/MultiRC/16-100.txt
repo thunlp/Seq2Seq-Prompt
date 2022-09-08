@@ -1,0 +1,20 @@
+{0: 'Well', 1: 'Yes'}
+{0: 'And', 1: 'Yes'}
+{0: 'Also', 1: 'Yes'}
+{0: 'In fact', 1: 'Yes'}
+{0: 'First', 1: 'Yes'}
+{0: 'So', 1: 'Yes'}
+{0: 'Now', 1: 'Yes'}
+{0: 'In other words', 1: 'Yes'}
+{0: 'By the way', 1: 'Yes'}
+{0: 'In this case', 1: 'Yes'}
+{0: 'After all', 1: 'Yes'}
+{0: 'In the end', 1: 'Yes'}
+{0: 'One', 1: 'Yes'}
+{0: 'On the other hand', 1: 'Yes'}
+{0: 'In addition', 1: 'Yes'}
+{0: 'For the most part', 1: 'Yes'}
+{0: 'Then', 1: 'Yes'}
+{0: 'For the first time', 1: 'Yes'}
+{0: 'At the time', 1: 'Yes'}
+{0: 'At the end of the day', 1: 'Yes'}

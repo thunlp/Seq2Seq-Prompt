@@ -1,0 +1,20 @@
+0.40069 {'0': 'Next', '1': 'and'}
+0.39289 {'0': 'On the other hand', '1': 'In fact'}
+0.38965 {'0': 'Next', '1': 'In this case'}
+0.38477 {'0': 'Next', '1': '.'}
+0.35125 {'0': 'Next', '1': 'However'}
+0.33709 {'0': 'Next', '1': 'Why'}
+0.30911 {'0': 'Next', '1': 'According to the'}
+0.30677 {'0': 'Next', '1': 'At the time'}
+0.30316 {'0': 'Next', '1': 'In fact'}
+0.28332 {'0': 'Next', '1': 'The'}
+0.28179 {'0': 'Next', '1': 'According to the report'}
+0.27348 {'0': 'Next', '1': 'For the first time'}
+0.27344 {'0': 'Next', '1': 's'}
+0.23226 {'0': 'On the other hand', '1': 's'}
+0.18401 {'0': 'Next', '1': 'According to reports'}
+0.17094 {'0': 'Next', '1': 'In addition'}
+0.16562 {'0': 'Next', '1': 'According to the news'}
+0.14566 {'0': 'Next', '1': 'But'}
+0.12439 {'0': 'On the other hand', '1': 'In addition'}
+0.06221 {'0': 'Next', '1': 'In response'}

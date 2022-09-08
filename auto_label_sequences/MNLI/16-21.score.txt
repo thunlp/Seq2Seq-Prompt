@@ -1,0 +1,20 @@
+0.68750 {'contradiction': 'No', 'entailment': 'If so', 'neutral': 'At this point'}
+0.68750 {'contradiction': 'No', 'entailment': 'In other words', 'neutral': 'In the end'}
+0.68750 {'contradiction': 'No', 'entailment': 'In other words', 'neutral': 'This time'}
+0.68750 {'contradiction': 'No', 'entailment': 'If so', 'neutral': 'At the time'}
+0.68750 {'contradiction': 'No', 'entailment': 'If so', 'neutral': 'At the same time'}
+0.66667 {'contradiction': 'No', 'entailment': 'In short', 'neutral': 'In the end'}
+0.66667 {'contradiction': 'No', 'entailment': 'If so', 'neutral': '. In the end'}
+0.64583 {'contradiction': 'No', 'entailment': 'If so', 'neutral': 'This time'}
+0.64583 {'contradiction': 'No', 'entailment': 'If so', 'neutral': 'And yes'}
+0.64583 {'contradiction': 'No', 'entailment': 'If so', 'neutral': '. In fact'}
+0.62500 {'contradiction': 'No', 'entailment': 'If so', 'neutral': 'In the end'}
+0.62500 {'contradiction': 'No', 'entailment': 'In other words', 'neutral': 'And yes'}
+0.62500 {'contradiction': 'No', 'entailment': 'If so', 'neutral': 'In the meantime'}
+0.62500 {'contradiction': 'No', 'entailment': 'If so', 'neutral': 'At this time'}
+0.62500 {'contradiction': 'No', 'entailment': 'In short', 'neutral': 'And yes'}
+0.60417 {'contradiction': 'No', 'entailment': 'If so', 'neutral': 'Because of this'}
+0.60417 {'contradiction': 'No', 'entailment': 'If so', 'neutral': 'On the other side'}
+0.60417 {'contradiction': 'No', 'entailment': 'In other words', 'neutral': 'At this point'}
+0.58333 {'contradiction': 'No', 'entailment': 'If so', 'neutral': 'In the same way'}
+0.58333 {'contradiction': 'No', 'entailment': 'If so', 'neutral': 'Then, of course'}

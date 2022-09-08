@@ -1,0 +1,20 @@
+{0: 'Also', 1: 'No'}
+{0: 'Then', 1: 'No'}
+{0: 'After that', 1: 'No'}
+{0: 'And', 1: 'No'}
+{0: 'In the end', 1: 'No'}
+{0: 'Next', 1: 'No'}
+{0: 'Now', 1: 'No'}
+{0: 'At the same time', 1: 'No'}
+{0: 'So', 1: 'No'}
+{0: 'Finally', 1: 'No'}
+{0: 'In addition', 1: 'No'}
+{0: 'By the way', 1: 'No'}
+{0: 'Later', 1: 'No'}
+{0: 'After this', 1: 'No'}
+{0: 'However', 1: 'No'}
+{0: 'The next day', 1: 'No'}
+{0: 'In the meantime', 1: 'No'}
+{0: 'On the other hand', 1: 'No'}
+{0: 'In this case', 1: 'No'}
+{0: 'Because of this', 1: 'No'}

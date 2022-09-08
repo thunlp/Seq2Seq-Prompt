@@ -1,0 +1,20 @@
+{0: 'I love it.', 1: 'The rest is history.'}
+{0: 'I loved it.', 1: 'The rest is history.'}
+{0: 'I love it.', 1: 'What do you think?'}
+{0: 'I love it.', 1: 'This is the story.'}
+{0: 'I loved it.', 1: 'What do you think?'}
+{0: 'I love it.', 1: 'What will happen next?'}
+{0: 'Check it out.', 1: 'The rest is history.'}
+{0: 'I love it.', 1: 'The story continues.'}
+{0: 'I love it.', 1: 'Watch the video below.'}
+{0: 'I like it.', 1: 'The rest is history.'}
+{0: 'I love it.', 1: 'This is his story.'}
+{0: 'I love it.', 1: 'A true story.'}
+{0: 'I love it.', 1: 'The story continues here.'}
+{0: 'I love it.', 1: 'Read more about it.'}
+{0: 'I love it.', 1: 'Read the full story.'}
+{0: 'I loved it.', 1: 'This is the story.'}
+{0: 'I love it.', 1: 'Find out why.'}
+{0: 'I love it.', 1: 'The end is near.'}
+{0: 'I love it.', 1: 'Is this true?'}
+{0: 'I love it.', 1: 'Watch the trailer below.'}

@@ -1,0 +1,20 @@
+0.55005 {'0': 'No', '1': 'In short'}
+0.53602 {'0': 'No', '1': 'In the end'}
+0.53441 {'0': 'No', '1': 'First'}
+0.46685 {'0': 'No', '1': 'In the meantime'}
+0.46174 {'0': 'No', '1': 'On the other hand'}
+0.45959 {'0': 'No', '1': 'And'}
+0.45345 {'0': 'No', '1': 'In fact'}
+0.44539 {'0': 'No', '1': 'For the first time'}
+0.43405 {'0': 'No', '1': 'In the video'}
+0.42246 {'0': 'No', '1': 'This week'}
+0.41849 {'0': 'No', '1': 'However'}
+0.40454 {'0': 'No', '1': 's'}
+0.39335 {'0': 'No', '1': 'At the moment'}
+0.39125 {'0': 'No', '1': 'In this case'}
+0.38445 {'0': 'No', '1': 'In the past'}
+0.38365 {'0': 'No', '1': 'At the same time'}
+0.34026 {'0': 'No', '1': 'In addition'}
+0.28319 {'0': 'No', '1': 'In other words'}
+0.25137 {'0': 'No', '1': 'That is'}
+0.09890 {'0': 'No', '1': 'In this video'}

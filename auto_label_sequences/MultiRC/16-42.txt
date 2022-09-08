@@ -1,0 +1,20 @@
+{0: 'No', 1: 'A'}
+{0: 'Of course', 1: 'A'}
+{0: 'Why', 1: 'A'}
+{0: 'The answer is', 1: 'A'}
+{0: 'Well', 1: 'A'}
+{0: 'No', 1: 'First'}
+{0: 'And', 1: 'A'}
+{0: 'Also', 1: 'A'}
+{0: 'Then', 1: 'A'}
+{0: 'So', 1: 'A'}
+{0: 'By the way', 1: 'A'}
+{0: 'The answer', 1: 'A'}
+{0: 'For the most part', 1: 'A'}
+{0: 'The first', 1: 'A'}
+{0: 'In this case', 1: 'A'}
+{0: 'At the time', 1: 'A'}
+{0: 'At the same time', 1: 'A'}
+{0: 'For the first time', 1: 'A'}
+{0: 'At the end of the day', 1: 'A'}
+{0: 'In fact', 1: 'A'}

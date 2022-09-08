@@ -1,0 +1,20 @@
+{'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'A: Yes'}
+{'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'If so'}
+{'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'In other words'}
+{'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'B: Yes'}
+{'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'Maybe'}
+{'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'Either way'}
+{'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'A: yes'}
+{'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'If, in fact'}
+{'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'A: Sure'}
+{'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'A: Of course'}
+{'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'A: I mean'}
+{'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'A: I think'}
+{'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'Yes, I think'}
+{'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'A: Well, yes'}
+{'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'A: Yes, yes'}
+{'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'A: Yes, I think'}
+{'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'A: I think, yes'}
+{'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'I think'}
+{'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': "I don't think so"}
+{'contradiction': 'A: No', 'entailment': 'Yes', 'neutral': 'What do you think? A: Yes'}

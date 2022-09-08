@@ -1,0 +1,20 @@
+0.83333 {'0': '. In the meantime', '1': 'Yes'}
+0.82353 {'0': 'In addition', '1': 'Yes'}
+0.82353 {'0': 'Last week', '1': 'Yes'}
+0.80000 {'0': 'For the first time', '1': 'Yes'}
+0.80000 {'0': 'In the same way', '1': 'Yes'}
+0.78947 {'0': 's', '1': 'Yes'}
+0.78947 {'0': '. In addition', '1': 'Yes'}
+0.78788 {'0': 'At the same time', '1': 'Yes'}
+0.78788 {'0': '. However', '1': 'Yes'}
+0.77778 {'0': 'In other news', '1': 'Yes'}
+0.77778 {'0': 'For the second time', '1': 'Yes'}
+0.77419 {'0': 'On Friday', '1': 'Yes'}
+0.76923 {'0': 'Meanwhile', '1': 'Yes'}
+0.76471 {'0': 'In the meantime', '1': 'Yes'}
+0.76190 {'0': 'In addition', '1': 'In fact'}
+0.75000 {'0': 'Finally', '1': 'Yes'}
+0.74286 {'0': 'In other words', '1': 'Yes'}
+0.73171 {'0': '?', '1': 'Yes'}
+0.72222 {'0': 'In the United States', '1': 'Yes'}
+0.69767 {'0': 'On the other hand', '1': 'Yes'}
