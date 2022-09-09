@@ -8,9 +8,10 @@ Source code and dataset for "Automatic Label Sequence Generation for Prompting S
 - [Requirements](#requirements)
 - [Prepare the data](#prepare-the-data)
 - [Run AutoSeq](#run-autoseq)
-	-	[Main results](#main-results)
-	-	[Search for automatic label sequence and label word mappings](#search-for-automatic-label-sequence-and-label-word-mappings)
+  - [Main results](#main-results)
+  - [Search for automatic label sequence and label word mappings](#search-for-automatic-label-sequence-and-label-word-mappings)
 - [Citation](#citation)
+
 ## Overview
 
 In this work we propose AutoSeq, a general-purpose, fully automatic prompting method that depends only on few-shot annotations.
@@ -29,7 +30,7 @@ pip install -r requirements.txt
 
 ## Prepare the data
 
-Please download the official GLUE and SuperGLUE data and extract the files to `./data/GLUE` and `./data/SuperGLUE`.
+Please download the official [GLUE](https://gluebenchmark.com) and [SuperGLUE](https://super.gluebenchmark.com) data and extract the files to `./data/GLUE` and `./data/SuperGLUE`.
 
 Then use the following command to generate the few-shot data:
 
@@ -40,7 +41,7 @@ python tools/generate_k_shot_data_for_SuperGLUE.py
 
 ## Run AutoSeq
 
-For convenience, we use SST-2 as an example below.
+To reproduce our results, please use scripts we provide. For convenience, we use SST-2 as an example below.
 
 ### Main results
 
