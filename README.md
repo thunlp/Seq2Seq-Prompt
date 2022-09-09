@@ -41,7 +41,7 @@ python tools/generate_k_shot_data_for_SuperGLUE.py
 
 ## Run AutoSeq
 
-To reproduce our results, please use scripts we provide. For convenience, we use SST-2 as an example below.
+To reproduce our results, please use the scripts we provide. For convenience, we use SST-2 as an example below.
 
 ### Main results
 
