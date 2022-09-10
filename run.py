@@ -25,8 +25,8 @@ from src.dataset import FewShotDataset, prompt_encoder
 from src.models import (
     BertForPromptFinetuning,
     RobertaForPromptFinetuning,
-    T5ForPromptFinetuning,
     T5ForFinetuning,
+    T5ForPromptFinetuning,
     resize_token_type_embeddings,
 )
 from src.trainer import Trainer
@@ -513,7 +513,6 @@ def main():
         num_labels=num_labels,
         finetuning_task=data_args.task_name,
         cache_dir=model_args.cache_dir,
-        local_files_only=True,  # TODO
     )
 
     if "prompt" in model_args.few_shot_type:
@@ -541,7 +540,6 @@ def main():
             if model_args.tokenizer_name
             else model_args.model_name_or_path,
             cache_dir=model_args.cache_dir,
-            local_files_only=True,  # TODO
         )
     else:
         tokenizer = AutoTokenizer.from_pretrained(

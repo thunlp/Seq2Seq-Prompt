@@ -235,32 +235,28 @@ def generate(
                 new_decoder_input_ids[..., i + 1] = word_id
 
                 # Forbid single space token, "....", and ".........."
-                if (
-                    word_id
-                    in [
-                        2,
-                        3,
-                        96,
-                        137,
-                        233,
-                        535,
-                        1141,
-                        1280,
-                        1820,
-                        2824,
-                        4275,
-                        4609,
-                        4720,
-                        7067,
-                        9374,
-                        10011,
-                        14125,
-                        16463,
-                        19794,
-                        22354,
-                    ]
-                    or (i == 1 and word_id == 1)
-                ):
+                if word_id in [
+                    2,
+                    3,
+                    96,
+                    137,
+                    233,
+                    535,
+                    1141,
+                    1280,
+                    1820,
+                    2824,
+                    4275,
+                    4609,
+                    4720,
+                    7067,
+                    9374,
+                    10011,
+                    14125,
+                    16463,
+                    19794,
+                    22354,
+                ] or (i == 1 and word_id == 1):
                     check = False
 
                 # Forbid continuous "."
@@ -600,7 +596,7 @@ def search_mappings(
         "QNLI": {"not_entailment": "No", "entailment": "Yes"},
         "RTE": {"not_entailment": "No", "entailment": "Yes"},
         "AX-b": {"not_entailment": "No", "entailment": "Yes"},
-        "AX-g": {"not_entailment": "No", "entailment": "Yes"},  # TODO: swap
+        "AX-g": {"not_entailment": "No", "entailment": "Yes"},
         "BoolQ": {False: "No", True: "Yes"},
         "CB": {"contradiction": "No", "entailment": "Yes", "neutral": "Maybe"},
         "COPA": {0: "choice1", 1: "choice2"},
@@ -800,7 +796,12 @@ def main():
         ],
         help="Task names",
     )
-    parser.add_argument("--output_dir", type=str, help="Output directory")
+    parser.add_argument(
+        "--output_dir",
+        type=str,
+        default="my_auto_label_sequences",
+        help="Output directory",
+    )
 
     parser.add_argument(
         "--data_dir", type=str, default="data/k-shot", help="Data directory"

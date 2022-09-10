@@ -629,7 +629,7 @@ def search_mappings(
         "QNLI": {"not_entailment": "No", "entailment": "Yes"},
         "RTE": {"not_entailment": "No", "entailment": "Yes"},
         "AX-b": {"not_entailment": "No", "entailment": "Yes"},
-        "AX-g": {"not_entailment": "No", "entailment": "Yes"},  # TODO: swap
+        "AX-g": {"not_entailment": "No", "entailment": "Yes"},
         "BoolQ": {False: "No", True: "Yes"},
         "CB": {"contradiction": "No", "entailment": "Yes", "neutral": "Maybe"},
         "COPA": {0: "choice1", 1: "choice2"},
@@ -833,7 +833,12 @@ def main():
         ],
         help="Task names",
     )
-    parser.add_argument("--output_dir", type=str, help="Output directory")
+    parser.add_argument(
+        "--output_dir",
+        type=str,
+        default="my_auto_label_words",
+        help="Output directory",
+    )
 
     parser.add_argument(
         "--data_dir", type=str, default="data/k-shot", help="Data directory"

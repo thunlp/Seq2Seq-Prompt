@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ## Prepare the data
 
-Please download the official [GLUE](https://gluebenchmark.com) and [SuperGLUE](https://super.gluebenchmark.com) data and extract the files to `./data/GLUE` and `./data/SuperGLUE`.
+Please download the official [GLUE](https://nlp.cs.princeton.edu/projects/lm-bff/datasets.tar) and [SuperGLUE](https://super.gluebenchmark.com) data and extract the files to `./data/GLUE/TASK_NAME` and `./data/SuperGLUE/TASK_NAME`.
 
 Then use the following command to generate the few-shot data:
 
@@ -90,8 +90,10 @@ task=SST-2 bash scripts/t5_prompt_tuning.sh
 All the results will be stored in `./log`. To gather all the results, run the following command:
 
 ```bash
-python tools/gather_result.py --condition "{'tag': 'exp-SPL-SST-2-auto', 'task_name': 'sst-2', 'few_shot_type': 'prompt'}"
+python tools/gather_result.py --condition "{'tag': 'exp-autoseq-SST-2', 'task_name': 'sst-2', 'few_shot_type': 'prompt'}"
 ```
+
+The original log is [here](https://drive.google.com/file/d/1BZki2lY3XHllE4mN9qMJ9-hsI7xmwecY/view?usp=sharing).
 
 ### Search for automatic label sequence and label word mappings
 
@@ -103,6 +105,8 @@ We first generate candidate label sequence and label word mappings by running:
 python tools/generate_label_sequences.py
 python tools/generate_label_words.py
 ```
+
+The generated candidates will be saved in `./my_auto_label_sequences` and `./my_auto_label_words`.
 
 Then we do prompt-based fine-tuning of all the mappings by:
 
