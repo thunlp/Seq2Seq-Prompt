@@ -1,6 +1,6 @@
 # Seq2Seq-Prompt
 
-Source code and dataset for "Automatic Label Sequence Generation for Prompting Sequence-to-sequence Models".
+Source code and dataset for [Automatic Label Sequence Generation for Prompting Sequence-to-sequence Models](https://arxiv.org/pdf/2209.09401.pdf).
 
 ## Quick links
 
