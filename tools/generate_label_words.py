@@ -701,14 +701,12 @@ def search_mappings(
             # We always put [MASK] between the two sentences
             if task_name == "BoolQ":
                 template = "*cls**sentu_0*?*<extra_id_0>*,*+sent_1**sep+*"
-            elif task_name == "MultiRC":
-                template = "*cls**sent_1**<extra_id_0>*,*+sentl_2**+sent_0**sep+*"
-            elif task_name == "WSC":
-                template = "*cls**sent_0**+sent_1**<extra_id_0>*,*+sentl_2**sep+*"
             elif task_name == "COPA":
                 template = (
                     "*cls**sent_0**+sentu_1*?*sent-_2*?*<extra_id_0>*,*+sentl_3**sep+*"
                 )
+            elif task_name == "MultiRC":
+                template = "*cls**sent_1**<extra_id_0>*,*+sentl_2**+sent_0**sep+*"
             elif task_name == "WiC":
                 template = "*cls**sent_0**+sent_1*_'*sent_2*'*<extra_id_0>**sep+*"
             else:

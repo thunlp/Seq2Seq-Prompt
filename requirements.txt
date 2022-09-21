@@ -33,3 +33,4 @@ transformers==4.5.1
 typing-extensions==3.7.4.3
 urllib3>=1.26.4
 zipp==3.4.0
+jsonlines

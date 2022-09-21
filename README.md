@@ -93,7 +93,7 @@ All the results will be stored in `./log`. To gather all the results, run the fo
 python tools/gather_result.py --condition "{'tag': 'exp-autoseq-SST-2', 'task_name': 'sst-2', 'few_shot_type': 'prompt'}"
 ```
 
-The original log is [here](https://drive.google.com/file/d/1BZki2lY3XHllE4mN9qMJ9-hsI7xmwecY/view?usp=sharing).
+We also release [the original log](https://drive.google.com/file/d/1BZki2lY3XHllE4mN9qMJ9-hsI7xmwecY/view?usp=sharing) of our experiments to facilitate the reproduction. 
 
 ### Search for automatic label sequence and label word mappings
 

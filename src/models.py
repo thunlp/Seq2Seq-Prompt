@@ -247,7 +247,7 @@ class T5ForPromptFinetuning(T5ForConditionalGeneration):
     def __init__(self, config):
         super().__init__(config)
         self.num_labels = config.num_labels
-        self.t5 = T5ForConditionalGeneration.from_pretrained("google/t5-v1_1-base")
+        self.t5 = T5ForConditionalGeneration.from_pretrained(config.model_name_or_path)
 
         # These attributes should be assigned once the model is initialized
         self.model_args = None
@@ -712,7 +712,7 @@ class T5ForFinetuning(T5ForConditionalGeneration):
     def __init__(self, config):
         super().__init__(config)
         self.num_labels = config.num_labels
-        self.t5 = T5ForConditionalGeneration.from_pretrained("google/t5-v1_1-base")
+        self.t5 = T5ForConditionalGeneration.from_pretrained(config.model_name_or_path)
 
         # These attributes should be assigned once the model is initialized
         self.model_args = None
